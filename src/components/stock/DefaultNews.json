@@ -1,0 +1,4466 @@
+{ "feed":[
+    {
+        "title": "Cboe Global Markets and Vipshop have been highlighted as Zacks Bull and Bear of the Day",
+        "url": "https://www.zacks.com/stock/news/2025230/cboe-global-markets-and-vipshop-have-been-highlighted-as-zacks-bull-and-bear-of-the-day",
+        "time_published": "20221205T133400",
+        "authors": [
+            "Zacks Investment Research"
+        ],
+        "summary": "Chicago, IL - December 5, 2022 - Zacks Equity Research shares Cboe Global Markets ( CBOE Quick QuoteCBOE - ) as the Bull of the Day and Vipshop Holdings ( VIPS Quick QuoteVIPS - ) as the Bear of the Day.",
+        "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/17/349.jpg",
+        "source": "Zacks Commentary",
+        "category_within_source": "n/a",
+        "source_domain": "www.zacks.com",
+        "topics": [
+            {
+                "topic": "Economy - Fiscal",
+                "relevance_score": "0.838487"
+            },
+            {
+                "topic": "Economy - Monetary",
+                "relevance_score": "0.682689"
+            },
+            {
+                "topic": "Retail & Wholesale",
+                "relevance_score": "0.333333"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "0.333333"
+            },
+            {
+                "topic": "Earnings",
+                "relevance_score": "0.999999"
+            },
+            {
+                "topic": "Finance",
+                "relevance_score": "0.333333"
+            },
+            {
+                "topic": "Financial Markets",
+                "relevance_score": "0.999975"
+            }
+        ],
+        "overall_sentiment_score": 0.202795,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+            {
+                "ticker": "VIPS",
+                "relevance_score": "0.146152",
+                "ticker_sentiment_score": "0.06288",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "HGV",
+                "relevance_score": "0.166743",
+                "ticker_sentiment_score": "0.149318",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "WH",
+                "relevance_score": "0.166743",
+                "ticker_sentiment_score": "0.122083",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "H",
+                "relevance_score": "0.12546",
+                "ticker_sentiment_score": "0.09168",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "CBOE",
+                "relevance_score": "0.166743",
+                "ticker_sentiment_score": "0.039762",
+                "ticker_sentiment_label": "Neutral"
+            }
+        ]
+    },
+    {
+        "title": "Marriott Vacations  ( VAC )  Rewards Shareholders With Dividend Hike",
+        "url": "https://www.zacks.com/stock/news/2024845/marriott-vacations-vac-rewards-shareholders-with-dividend-hike",
+        "time_published": "20221202T154200",
+        "authors": [
+            "Zacks Investment Research"
+        ],
+        "summary": "Marriott Vacations (VAC) boosts shareholders' returns with a quarterly dividend hike of 16%. The company is optimistic about high occupancy rates and growth in development and rental businesses.",
+        "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/02/787.jpg",
+        "source": "Zacks Commentary",
+        "category_within_source": "n/a",
+        "source_domain": "www.zacks.com",
+        "topics": [
+            {
+                "topic": "Manufacturing",
+                "relevance_score": "0.5"
+            },
+            {
+                "topic": "Earnings",
+                "relevance_score": "0.990786"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "0.5"
+            },
+            {
+                "topic": "Financial Markets",
+                "relevance_score": "0.929393"
+            }
+        ],
+        "overall_sentiment_score": 0.340581,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+            {
+                "ticker": "VAC",
+                "relevance_score": "0.251032",
+                "ticker_sentiment_score": "0.298702",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "CROX",
+                "relevance_score": "0.310843",
+                "ticker_sentiment_score": "0.237693",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "MCRI",
+                "relevance_score": "0.18967",
+                "ticker_sentiment_score": "0.162122",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "H",
+                "relevance_score": "0.18967",
+                "ticker_sentiment_score": "0.162122",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            }
+        ]
+    },
+    {
+        "title": "Here's Why You Should Retain Red Rock Resorts'  ( RRR )  Stock",
+        "url": "https://www.zacks.com/stock/news/2024843/heres-why-you-should-retain-red-rock-resorts-rrr-stock",
+        "time_published": "20221202T154100",
+        "authors": [
+            "Zacks Investment Research"
+        ],
+        "summary": "Red Rock Resorts (RRR) intends to divest certain land parcels to reposition its real estate portfolio for growth. However, inflationary pressures are a headwind.",
+        "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/02/787.jpg",
+        "source": "Zacks Commentary",
+        "category_within_source": "n/a",
+        "source_domain": "www.zacks.com",
+        "topics": [
+            {
+                "topic": "Manufacturing",
+                "relevance_score": "0.5"
+            },
+            {
+                "topic": "Earnings",
+                "relevance_score": "0.972476"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "0.5"
+            },
+            {
+                "topic": "Financial Markets",
+                "relevance_score": "0.161647"
+            },
+            {
+                "topic": "Economy - Monetary",
+                "relevance_score": "0.310843"
+            }
+        ],
+        "overall_sentiment_score": 0.266934,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+            {
+                "ticker": "RRR",
+                "relevance_score": "0.333685",
+                "ticker_sentiment_score": "0.314105",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "CROX",
+                "relevance_score": "0.241924",
+                "ticker_sentiment_score": "0.197233",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "MCRI",
+                "relevance_score": "0.146618",
+                "ticker_sentiment_score": "0.137877",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "H",
+                "relevance_score": "0.146618",
+                "ticker_sentiment_score": "0.137877",
+                "ticker_sentiment_label": "Neutral"
+            }
+        ]
+    },
+    {
+        "title": "Here's How Investors Can Find Strong Consumer Discretionary Stocks with the Zacks ESP Screener",
+        "url": "https://www.zacks.com/stock/news/2024696/heres-how-investors-can-find-strong-consumer-discretionary-stocks-with-the-zacks-esp-screener",
+        "time_published": "20221202T135003",
+        "authors": [
+            "Zacks Investment Research"
+        ],
+        "summary": "Finding stocks expected to beat quarterly earnings estimates becomes an easier task with our Zacks Earnings ESP.",
+        "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default147.jpg",
+        "source": "Zacks Commentary",
+        "category_within_source": "n/a",
+        "source_domain": "www.zacks.com",
+        "topics": [
+            {
+                "topic": "Retail & Wholesale",
+                "relevance_score": "0.5"
+            },
+            {
+                "topic": "Earnings",
+                "relevance_score": "0.999682"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "0.5"
+            },
+            {
+                "topic": "Financial Markets",
+                "relevance_score": "0.316726"
+            }
+        ],
+        "overall_sentiment_score": 0.388232,
+        "overall_sentiment_label": "Bullish",
+        "ticker_sentiment": [
+            {
+                "ticker": "RICK",
+                "relevance_score": "0.380012",
+                "ticker_sentiment_score": "0.390353",
+                "ticker_sentiment_label": "Bullish"
+            },
+            {
+                "ticker": "H",
+                "relevance_score": "0.259037",
+                "ticker_sentiment_score": "0.222883",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            }
+        ]
+    },
+    {
+        "title": "4 Stocks to Buy on Rise in Personal Income and Spending",
+        "url": "https://www.zacks.com/stock/news/2024625/4-stocks-to-buy-on-rise-in-personal-income-and-spending",
+        "time_published": "20221202T124500",
+        "authors": [
+            "Zacks Investment Research"
+        ],
+        "summary": "Growing economic optimism now appears to have allayed concerns of a recession, helping stocks like Wyndham Hotels & Resorts (WH), Hyatt Hotels (H), Hilton Grand Vacations (HGV) and Live Nation Entertainment (LYV).",
+        "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/d0/2659.jpg",
+        "source": "Zacks Commentary",
+        "category_within_source": "n/a",
+        "source_domain": "www.zacks.com",
+        "topics": [
+            {
+                "topic": "Earnings",
+                "relevance_score": "0.998626"
+            },
+            {
+                "topic": "Financial Markets",
+                "relevance_score": "0.310843"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "1.0"
+            },
+            {
+                "topic": "Economy - Fiscal",
+                "relevance_score": "0.838487"
+            },
+            {
+                "topic": "Economy - Monetary",
+                "relevance_score": "0.682689"
+            }
+        ],
+        "overall_sentiment_score": 0.274336,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+            {
+                "ticker": "LYV",
+                "relevance_score": "0.252114",
+                "ticker_sentiment_score": "0.21089",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "WH",
+                "relevance_score": "0.29234",
+                "ticker_sentiment_score": "0.216527",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "H",
+                "relevance_score": "0.211191",
+                "ticker_sentiment_score": "0.141633",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "HGV",
+                "relevance_score": "0.29234",
+                "ticker_sentiment_score": "0.271136",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            }
+        ]
+    },
+    {
+        "title": "Boyd Gaming  ( BYD )  Stock Outpaces Industry in a Year: Here's Why",
+        "url": "https://www.zacks.com/stock/news/2024262/boyd-gaming-byd-stock-outpaces-industry-in-a-year-heres-why",
+        "time_published": "20221201T153400",
+        "authors": [
+            "Zacks Investment Research"
+        ],
+        "summary": "Boyd Gaming (BYD) continues to focus on FanDuel Group partnership and portfolio expansion to drive growth. Also, strengthening current operations through capital investment bodes well.",
+        "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/21/2866.jpg",
+        "source": "Zacks Commentary",
+        "category_within_source": "n/a",
+        "source_domain": "www.zacks.com",
+        "topics": [
+            {
+                "topic": "Manufacturing",
+                "relevance_score": "0.5"
+            },
+            {
+                "topic": "Earnings",
+                "relevance_score": "0.997335"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "0.5"
+            },
+            {
+                "topic": "Financial Markets",
+                "relevance_score": "0.161647"
+            }
+        ],
+        "overall_sentiment_score": 0.338996,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+            {
+                "ticker": "BYD",
+                "relevance_score": "0.293038",
+                "ticker_sentiment_score": "0.346285",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "CROX",
+                "relevance_score": "0.293038",
+                "ticker_sentiment_score": "0.227445",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "MCRI",
+                "relevance_score": "0.178459",
+                "ticker_sentiment_score": "0.155386",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "H",
+                "relevance_score": "0.178459",
+                "ticker_sentiment_score": "0.155386",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            }
+        ]
+    },
+    {
+        "title": "Hyatt Hotels  ( H )  to Acquire Dream Hotel Group for $300M",
+        "url": "https://www.zacks.com/stock/news/2023769/hyatt-hotels-h-to-acquire-dream-hotel-group-for-300m",
+        "time_published": "20221130T162900",
+        "authors": [
+            "Zacks Investment Research"
+        ],
+        "summary": "Hyatt Hotels (H) reaches an agreement with Dream Hotel Group to acquire the latter's lifestyle hotel brand and management platform.",
+        "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/aa/2489.jpg",
+        "source": "Zacks Commentary",
+        "category_within_source": "n/a",
+        "source_domain": "www.zacks.com",
+        "topics": [
+            {
+                "topic": "Manufacturing",
+                "relevance_score": "0.5"
+            },
+            {
+                "topic": "Earnings",
+                "relevance_score": "0.928769"
+            },
+            {
+                "topic": "Mergers & Acquisitions",
+                "relevance_score": "0.161647"
+            },
+            {
+                "topic": "Financial Markets",
+                "relevance_score": "0.108179"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "0.5"
+            }
+        ],
+        "overall_sentiment_score": 0.351509,
+        "overall_sentiment_label": "Bullish",
+        "ticker_sentiment": [
+            {
+                "ticker": "BYD",
+                "relevance_score": "0.266828",
+                "ticker_sentiment_score": "0.243469",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "CROX",
+                "relevance_score": "0.329992",
+                "ticker_sentiment_score": "0.286084",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "IGT",
+                "relevance_score": "0.201803",
+                "ticker_sentiment_score": "0.19621",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "H",
+                "relevance_score": "0.135347",
+                "ticker_sentiment_score": "0.207407",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            }
+        ]
+    },
+    {
+        "title": "Here's Why You Should Retain PENN Entertainment  ( PENN )  Stock",
+        "url": "https://www.zacks.com/stock/news/2022960/heres-why-you-should-retain-penn-entertainment-penn-stock",
+        "time_published": "20221128T172500",
+        "authors": [
+            "Zacks Investment Research"
+        ],
+        "summary": "PENN Entertainment's (PENN) focus on third-party F&B concepts, refreshed hotel products, entertainment and technological initiatives bode well. However, a rise in operating expenses is a concern.",
+        "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/21/2866.jpg",
+        "source": "Zacks Commentary",
+        "category_within_source": "n/a",
+        "source_domain": "www.zacks.com",
+        "topics": [
+            {
+                "topic": "Manufacturing",
+                "relevance_score": "0.5"
+            },
+            {
+                "topic": "Earnings",
+                "relevance_score": "0.990786"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "0.5"
+            },
+            {
+                "topic": "Financial Markets",
+                "relevance_score": "0.161647"
+            }
+        ],
+        "overall_sentiment_score": 0.340861,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+            {
+                "ticker": "PENN",
+                "relevance_score": "0.322474",
+                "ticker_sentiment_score": "0.325214",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "BYD",
+                "relevance_score": "0.187827",
+                "ticker_sentiment_score": "0.16397",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "CROX",
+                "relevance_score": "0.233556",
+                "ticker_sentiment_score": "0.193603",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "H",
+                "relevance_score": "0.141448",
+                "ticker_sentiment_score": "0.136331",
+                "ticker_sentiment_label": "Neutral"
+            }
+        ]
+    },
+    {
+        "title": "The Zacks Analyst Blog Highlights Hilton Grand Vacations, Hyatt Hotels, RCI Hospitality Holdings and Wyndham Hotels & Resorts",
+        "url": "https://www.zacks.com/stock/news/2022314/the-zacks-analyst-blog-highlights-hilton-grand-vacations-hyatt-hotels-rci-hospitality-holdings-and-wyndham-hotels-resorts",
+        "time_published": "20221125T141800",
+        "authors": [
+            "Zacks Investment Research"
+        ],
+        "summary": "Hilton Grand Vacations, Hyatt Hotels, RCI Hospitality Holdings and Wyndham Hotels & Resorts are part of the Zacks Analyst Blog.",
+        "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/0c/1281.jpg",
+        "source": "Zacks Commentary",
+        "category_within_source": "n/a",
+        "source_domain": "www.zacks.com",
+        "topics": [
+            {
+                "topic": "Retail & Wholesale",
+                "relevance_score": "0.5"
+            },
+            {
+                "topic": "Earnings",
+                "relevance_score": "0.998626"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "0.5"
+            },
+            {
+                "topic": "Economy - Monetary",
+                "relevance_score": "0.451494"
+            }
+        ],
+        "overall_sentiment_score": 0.169579,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+            {
+                "ticker": "RICK",
+                "relevance_score": "0.318382",
+                "ticker_sentiment_score": "0.160789",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "WH",
+                "relevance_score": "0.318382",
+                "ticker_sentiment_score": "0.140663",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "H",
+                "relevance_score": "0.241684",
+                "ticker_sentiment_score": "0.100556",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "HGV",
+                "relevance_score": "0.318382",
+                "ticker_sentiment_score": "0.189789",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            }
+        ]
+    },
+    {
+        "title": "Here's Why You Should Retain Marriott  ( MAR )  in Your Portfolio",
+        "url": "https://www.zacks.com/stock/news/2021999/heres-why-you-should-retain-marriott-mar-in-your-portfolio",
+        "time_published": "20221124T162700",
+        "authors": [
+            "Zacks Investment Research"
+        ],
+        "summary": "Marriott's (MAR) emphasis on new development and multiunit conversion opportunities bodes well. However, constrained RevPAR in Greater China and Asia Pacific is a concern.",
+        "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/da/3228.jpg",
+        "source": "Zacks Commentary",
+        "category_within_source": "n/a",
+        "source_domain": "www.zacks.com",
+        "topics": [
+            {
+                "topic": "Manufacturing",
+                "relevance_score": "0.5"
+            },
+            {
+                "topic": "Earnings",
+                "relevance_score": "0.983783"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "0.5"
+            },
+            {
+                "topic": "Financial Markets",
+                "relevance_score": "0.161647"
+            }
+        ],
+        "overall_sentiment_score": 0.285172,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+            {
+                "ticker": "MAR",
+                "relevance_score": "0.309725",
+                "ticker_sentiment_score": "0.272608",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "BYD",
+                "relevance_score": "0.180124",
+                "ticker_sentiment_score": "0.125441",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "CROX",
+                "relevance_score": "0.224072",
+                "ticker_sentiment_score": "0.14798",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "H",
+                "relevance_score": "0.135602",
+                "ticker_sentiment_score": "0.104844",
+                "ticker_sentiment_label": "Neutral"
+            }
+        ]
+    },
+    {
+        "title": "MGM Resorts'  ( MGM )  BetMGM Unveils Betting App in Maryland",
+        "url": "https://www.zacks.com/stock/news/2021900/mgm-resorts-mgm-betmgm-unveils-betting-app-in-maryland",
+        "time_published": "20221124T150600",
+        "authors": [
+            "Zacks Investment Research"
+        ],
+        "summary": "MGM Resorts International (MGM) and Entain Plc's joint venture BetMGM continues to expand its presence.",
+        "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/21/2866.jpg",
+        "source": "Zacks Commentary",
+        "category_within_source": "n/a",
+        "source_domain": "www.zacks.com",
+        "topics": [
+            {
+                "topic": "Manufacturing",
+                "relevance_score": "0.333333"
+            },
+            {
+                "topic": "Earnings",
+                "relevance_score": "0.928769"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "0.333333"
+            },
+            {
+                "topic": "Financial Markets",
+                "relevance_score": "0.108179"
+            },
+            {
+                "topic": "Finance",
+                "relevance_score": "0.333333"
+            }
+        ],
+        "overall_sentiment_score": 0.238893,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+            {
+                "ticker": "IX",
+                "relevance_score": "0.076847",
+                "ticker_sentiment_score": "0.108316",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "MGM",
+                "relevance_score": "0.300394",
+                "ticker_sentiment_score": "0.247137",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "CROX",
+                "relevance_score": "0.370418",
+                "ticker_sentiment_score": "0.18198",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "H",
+                "relevance_score": "0.227716",
+                "ticker_sentiment_score": "0.124706",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "BYD",
+                "relevance_score": "0.300394",
+                "ticker_sentiment_score": "0.155385",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "GMVHF",
+                "relevance_score": "0.076847",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            }
+        ]
+    },
+    {
+        "title": "Is Hyatt Hotels  ( H )  Stock Outpacing Its Consumer Discretionary Peers This Year?",
+        "url": "https://www.zacks.com/stock/news/2021841/is-hyatt-hotels-h-stock-outpacing-its-consumer-discretionary-peers-this-year",
+        "time_published": "20221124T144009",
+        "authors": [
+            "Zacks Investment Research"
+        ],
+        "summary": "Here is how Hyatt Hotels (H) and Snap-On (SNA) have performed compared to their sector so far this year.",
+        "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default108.jpg",
+        "source": "Zacks Commentary",
+        "category_within_source": "n/a",
+        "source_domain": "www.zacks.com",
+        "topics": [
+            {
+                "topic": "Manufacturing",
+                "relevance_score": "0.5"
+            },
+            {
+                "topic": "Earnings",
+                "relevance_score": "0.714479"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "0.5"
+            },
+            {
+                "topic": "Financial Markets",
+                "relevance_score": "0.266143"
+            }
+        ],
+        "overall_sentiment_score": 0.299564,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+            {
+                "ticker": "SNA",
+                "relevance_score": "0.469744",
+                "ticker_sentiment_score": "0.346407",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "H",
+                "relevance_score": "0.7414",
+                "ticker_sentiment_score": "0.488407",
+                "ticker_sentiment_label": "Bullish"
+            }
+        ]
+    },
+    {
+        "title": "Choice Hotels  ( CHH )  Expands in Minneapolis With New Hotel",
+        "url": "https://www.zacks.com/stock/news/2021547/choice-hotels-chh-expands-in-minneapolis-with-new-hotel",
+        "time_published": "20221123T172600",
+        "authors": [
+            "Zacks Investment Research"
+        ],
+        "summary": "Choice Hotels (CHH) boosts upscale brand presence In the Twin Cities with the Cambria Hotel Minneapolis Downtown opening.",
+        "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/fd/2510.jpg",
+        "source": "Zacks Commentary",
+        "category_within_source": "n/a",
+        "source_domain": "www.zacks.com",
+        "topics": [
+            {
+                "topic": "Manufacturing",
+                "relevance_score": "0.25"
+            },
+            {
+                "topic": "Life Sciences",
+                "relevance_score": "0.25"
+            },
+            {
+                "topic": "Economy - Fiscal",
+                "relevance_score": "0.158519"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "0.25"
+            },
+            {
+                "topic": "Earnings",
+                "relevance_score": "0.99246"
+            },
+            {
+                "topic": "Finance",
+                "relevance_score": "0.25"
+            },
+            {
+                "topic": "Financial Markets",
+                "relevance_score": "0.108179"
+            }
+        ],
+        "overall_sentiment_score": 0.210281,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+            {
+                "ticker": "GIS",
+                "relevance_score": "0.063425",
+                "ticker_sentiment_score": "0.146298",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "AMP",
+                "relevance_score": "0.063425",
+                "ticker_sentiment_score": "0.146298",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "CROX",
+                "relevance_score": "0.30928",
+                "ticker_sentiment_score": "0.238923",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "H",
+                "relevance_score": "0.188683",
+                "ticker_sentiment_score": "0.163004",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "BYD",
+                "relevance_score": "0.249744",
+                "ticker_sentiment_score": "0.202236",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "ECL",
+                "relevance_score": "0.063425",
+                "ticker_sentiment_score": "0.146298",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "CHH",
+                "relevance_score": "0.366961",
+                "ticker_sentiment_score": "0.22746",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            }
+        ]
+    },
+    {
+        "title": "4 Solid Stocks to Buy on Boom in the Holiday Season Travel",
+        "url": "https://www.zacks.com/stock/news/2021300/4-solid-stocks-to-buy-on-boom-in-the-holiday-season-travel",
+        "time_published": "20221123T134100",
+        "authors": [
+            "Zacks Investment Research"
+        ],
+        "summary": "Millions of Americans plan to travel and stay at hotels this holiday season, which is likely to help stocks like Hyatt Hotels (H), Hilton Grand Vacations (HGV), Wyndham Hotels & Resorts (WH) and Marriott Vacations Worldwide (VAC).",
+        "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/3d/3226.jpg",
+        "source": "Zacks Commentary",
+        "category_within_source": "n/a",
+        "source_domain": "www.zacks.com",
+        "topics": [
+            {
+                "topic": "Retail & Wholesale",
+                "relevance_score": "0.5"
+            },
+            {
+                "topic": "Earnings",
+                "relevance_score": "0.998626"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "0.5"
+            },
+            {
+                "topic": "Economy - Monetary",
+                "relevance_score": "0.451494"
+            }
+        ],
+        "overall_sentiment_score": 0.178867,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+            {
+                "ticker": "RICK",
+                "relevance_score": "0.30158",
+                "ticker_sentiment_score": "0.199812",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "WH",
+                "relevance_score": "0.30158",
+                "ticker_sentiment_score": "0.178607",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "H",
+                "relevance_score": "0.21803",
+                "ticker_sentiment_score": "0.118496",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "HGV",
+                "relevance_score": "0.30158",
+                "ticker_sentiment_score": "0.233752",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            }
+        ]
+    },
+    {
+        "title": "Zacks Industry Outlook Highlights Hyatt Hotels, Wyndham Hotels & Resorts and Hilton Grand Vacations",
+        "url": "https://www.zacks.com/stock/news/2020885/zacks-industry-outlook-highlights-hyatt-hotels-wyndham-hotels-resorts-and-hilton-grand-vacations",
+        "time_published": "20221122T141900",
+        "authors": [
+            "Zacks Investment Research"
+        ],
+        "summary": "Hyatt Hotels, Wyndham Hotels & Resorts and Hilton Grand Vacations are part of Zacks Industry Outlook article.",
+        "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/2d/3220.jpg",
+        "source": "Zacks Commentary",
+        "category_within_source": "n/a",
+        "source_domain": "www.zacks.com",
+        "topics": [
+            {
+                "topic": "Earnings",
+                "relevance_score": "0.99489"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "1.0"
+            },
+            {
+                "topic": "Financial Markets",
+                "relevance_score": "0.955357"
+            },
+            {
+                "topic": "Economy - Monetary",
+                "relevance_score": "0.310843"
+            }
+        ],
+        "overall_sentiment_score": 0.242778,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+            {
+                "ticker": "WH",
+                "relevance_score": "0.187221",
+                "ticker_sentiment_score": "0.188814",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "H",
+                "relevance_score": "0.094266",
+                "ticker_sentiment_score": "0.132088",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "HGV",
+                "relevance_score": "0.247838",
+                "ticker_sentiment_score": "0.162776",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            }
+        ]
+    },
+    {
+        "title": "Hyatt Hotels  ( H )  is a Great Momentum Stock: Should You Buy?",
+        "url": "https://www.zacks.com/stock/news/2020548/hyatt-hotels-h-is-a-great-momentum-stock-should-you-buy",
+        "time_published": "20221121T170006",
+        "authors": [
+            "Zacks Investment Research"
+        ],
+        "summary": "Does Hyatt Hotels (H) have what it takes to be a top stock pick for momentum investors? Let's find out.",
+        "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default174.jpg",
+        "source": "Zacks Commentary",
+        "category_within_source": "n/a",
+        "source_domain": "www.zacks.com",
+        "topics": [
+            {
+                "topic": "Earnings",
+                "relevance_score": "0.310843"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "1.0"
+            },
+            {
+                "topic": "Financial Markets",
+                "relevance_score": "0.990999"
+            }
+        ],
+        "overall_sentiment_score": 0.315933,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+            {
+                "ticker": "AWON",
+                "relevance_score": "0.064973",
+                "ticker_sentiment_score": "0.053491",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "H",
+                "relevance_score": "0.585052",
+                "ticker_sentiment_score": "0.407813",
+                "ticker_sentiment_label": "Bullish"
+            }
+        ]
+    },
+    {
+        "title": "Best Momentum Stocks to Buy for November 21st",
+        "url": "https://www.zacks.com/commentary/2020195/best-momentum-stocks-to-buy-for-november-21st",
+        "time_published": "20221121T150000",
+        "authors": [
+            "Zacks Investment Research"
+        ],
+        "summary": "ACR, EDAP and H made it to the Zacks Rank #1 (Strong Buy) momentum stocks list on November 21, 2022.",
+        "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/2d/3220.jpg",
+        "source": "Zacks Commentary",
+        "category_within_source": "n/a",
+        "source_domain": "www.zacks.com",
+        "topics": [
+            {
+                "topic": "Earnings",
+                "relevance_score": "0.451494"
+            },
+            {
+                "topic": "Life Sciences",
+                "relevance_score": "0.5"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "0.5"
+            }
+        ],
+        "overall_sentiment_score": 0.047822,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+            {
+                "ticker": "EDAP",
+                "relevance_score": "0.654016",
+                "ticker_sentiment_score": "-0.2036",
+                "ticker_sentiment_label": "Somewhat-Bearish"
+            },
+            {
+                "ticker": "H",
+                "relevance_score": "0.654016",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "ACR",
+                "relevance_score": "0.654016",
+                "ticker_sentiment_score": "0.258726",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            }
+        ]
+    },
+    {
+        "title": "Hyatt Hotels  ( H ) 's Technical Outlook is Bright After Key Golden Cross",
+        "url": "https://www.zacks.com/stock/news/2020444/hyatt-hotels-hs-technical-outlook-is-bright-after-key-golden-cross",
+        "time_published": "20221121T145508",
+        "authors": [
+            "Zacks Investment Research"
+        ],
+        "summary": "Good things could be on the horizon when a stock experiences a golden cross event. How should investors react?",
+        "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default308.jpg",
+        "source": "Zacks Commentary",
+        "category_within_source": "n/a",
+        "source_domain": "www.zacks.com",
+        "topics": [
+            {
+                "topic": "Earnings",
+                "relevance_score": "0.451494"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "1.0"
+            },
+            {
+                "topic": "Financial Markets",
+                "relevance_score": "0.108179"
+            }
+        ],
+        "overall_sentiment_score": 0.230552,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+            {
+                "ticker": "AWON",
+                "relevance_score": "0.132368",
+                "ticker_sentiment_score": "0.111335",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "H",
+                "relevance_score": "0.595343",
+                "ticker_sentiment_score": "0.526715",
+                "ticker_sentiment_label": "Bullish"
+            }
+        ]
+    },
+    {
+        "title": "3 Stocks From Hotels & Motels Industry to Power Your Portfolio",
+        "url": "https://www.zacks.com/commentary/2020372/3-stocks-from-hotels-motels-industry-to-power-your-portfolio",
+        "time_published": "20221121T144400",
+        "authors": [
+            "Zacks Investment Research"
+        ],
+        "summary": "Although the hotel occupancy rate is improving, it is still below the pre-pandemic level. However, Hyatt (H), Wyndham Hotels & Resorts (WH) and Hilton Grand Vacations (HGV) are likely to benefit from gradually improving occupancy and RevPAR.",
+        "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/aa/2489.jpg",
+        "source": "Zacks Commentary",
+        "category_within_source": "n/a",
+        "source_domain": "www.zacks.com",
+        "topics": [
+            {
+                "topic": "Earnings",
+                "relevance_score": "0.99489"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "1.0"
+            },
+            {
+                "topic": "Financial Markets",
+                "relevance_score": "0.77141"
+            },
+            {
+                "topic": "Economy - Monetary",
+                "relevance_score": "0.310843"
+            }
+        ],
+        "overall_sentiment_score": 0.240734,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+            {
+                "ticker": "WH",
+                "relevance_score": "0.164356",
+                "ticker_sentiment_score": "0.22175",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "H",
+                "relevance_score": "0.066139",
+                "ticker_sentiment_score": "0.18569",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "HGV",
+                "relevance_score": "0.228533",
+                "ticker_sentiment_score": "0.238576",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            }
+        ]
+    },
+    {
+        "title": "New Strong Buy Stocks for November 21st",
+        "url": "https://www.zacks.com/commentary/2019752/new-strong-buy-stocks-for-november-21st",
+        "time_published": "20221121T132400",
+        "authors": [
+            "Zacks Investment Research"
+        ],
+        "summary": "AMRK, ACR, EDAP, H and ENTX have been added to the Zacks Rank #1 (Strong Buy) List on November 21, 2022.",
+        "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/2d/3220.jpg",
+        "source": "Zacks Commentary",
+        "category_within_source": "n/a",
+        "source_domain": "www.zacks.com",
+        "topics": [
+            {
+                "topic": "Retail & Wholesale",
+                "relevance_score": "0.333333"
+            },
+            {
+                "topic": "Life Sciences",
+                "relevance_score": "0.333333"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "0.333333"
+            },
+            {
+                "topic": "Financial Markets",
+                "relevance_score": "0.108179"
+            },
+            {
+                "topic": "Earnings",
+                "relevance_score": "0.682689"
+            }
+        ],
+        "overall_sentiment_score": 0.16657,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+            {
+                "ticker": "ENTX",
+                "relevance_score": "0.492659",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "AMRK",
+                "relevance_score": "0.259727",
+                "ticker_sentiment_score": "0.208442",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "H",
+                "relevance_score": "0.492659",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "ACR",
+                "relevance_score": "0.492659",
+                "ticker_sentiment_score": "0.274583",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "EDAP",
+                "relevance_score": "0.492659",
+                "ticker_sentiment_score": "-0.207141",
+                "ticker_sentiment_label": "Somewhat-Bearish"
+            }
+        ]
+    },
+    {
+        "title": "Here's Why Investors Should Retain Carnival  ( CCL )  Stock Now",
+        "url": "https://www.zacks.com/stock/news/2020106/heres-why-investors-should-retain-carnival-ccl-stock-now",
+        "time_published": "20221118T184400",
+        "authors": [
+            "Zacks Investment Research"
+        ],
+        "summary": "Carnival (CCL) emphasizes on fleet and itinerary optimization to drive growth. However, supply chain disruptions are a headwind.",
+        "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/02/787.jpg",
+        "source": "Zacks Commentary",
+        "category_within_source": "n/a",
+        "source_domain": "www.zacks.com",
+        "topics": [
+            {
+                "topic": "Manufacturing",
+                "relevance_score": "0.5"
+            },
+            {
+                "topic": "Earnings",
+                "relevance_score": "0.99246"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "0.5"
+            },
+            {
+                "topic": "Financial Markets",
+                "relevance_score": "0.161647"
+            }
+        ],
+        "overall_sentiment_score": 0.196733,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+            {
+                "ticker": "BYD",
+                "relevance_score": "0.220809",
+                "ticker_sentiment_score": "0.146285",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "CROX",
+                "relevance_score": "0.274012",
+                "ticker_sentiment_score": "0.173592",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "H",
+                "relevance_score": "0.166551",
+                "ticker_sentiment_score": "0.118786",
+                "ticker_sentiment_label": "Neutral"
+            }
+        ]
+    },
+    {
+        "title": "Here's Why You Should Retain Vail Resorts  ( MTN )  Stock Now",
+        "url": "https://www.zacks.com/stock/news/2019463/heres-why-you-should-retain-vail-resorts-mtn-stock-now",
+        "time_published": "20221117T152600",
+        "authors": [
+            "Zacks Investment Research"
+        ],
+        "summary": "Vail Resorts (MTN) focuses on technological enhancements to target guest outreach and improve conversion. However, higher labor costs are a concern.",
+        "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/96/1991.jpg",
+        "source": "Zacks Commentary",
+        "category_within_source": "n/a",
+        "source_domain": "www.zacks.com",
+        "topics": [
+            {
+                "topic": "Manufacturing",
+                "relevance_score": "0.5"
+            },
+            {
+                "topic": "Earnings",
+                "relevance_score": "0.983783"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "0.5"
+            },
+            {
+                "topic": "Financial Markets",
+                "relevance_score": "0.214378"
+            }
+        ],
+        "overall_sentiment_score": 0.208805,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+            {
+                "ticker": "CROX",
+                "relevance_score": "0.229582",
+                "ticker_sentiment_score": "0.189276",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "BYD",
+                "relevance_score": "0.184598",
+                "ticker_sentiment_score": "0.160435",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "MTN",
+                "relevance_score": "0.229582",
+                "ticker_sentiment_score": "0.203137",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "H",
+                "relevance_score": "0.138997",
+                "ticker_sentiment_score": "0.133775",
+                "ticker_sentiment_label": "Neutral"
+            }
+        ]
+    },
+    {
+        "title": "The Zacks Analyst Blog Highlights BJ's Wholesale Club, H&R Block, Wyndham Hotels & Resorts, Live Nation Entertainment and Hyatt Hotels",
+        "url": "https://www.zacks.com/stock/news/2019199/the-zacks-analyst-blog-highlights-bjs-wholesale-club-hr-block-wyndham-hotels-resorts-live-nation-entertainment-and-hyatt-hotels",
+        "time_published": "20221117T111700",
+        "authors": [
+            "Zacks Investment Research"
+        ],
+        "summary": "BJ's Wholesale Club, H&R Block, Wyndham Hotels & Resorts, Live Nation Entertainment and Hyatt Hotels are included in this Analyst Blog.",
+        "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/d1/4291.jpg",
+        "source": "Zacks Commentary",
+        "category_within_source": "n/a",
+        "source_domain": "www.zacks.com",
+        "topics": [
+            {
+                "topic": "Economy - Monetary",
+                "relevance_score": "0.99489"
+            },
+            {
+                "topic": "Retail & Wholesale",
+                "relevance_score": "0.333333"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "0.333333"
+            },
+            {
+                "topic": "Earnings",
+                "relevance_score": "0.999855"
+            },
+            {
+                "topic": "Technology",
+                "relevance_score": "0.333333"
+            },
+            {
+                "topic": "Financial Markets",
+                "relevance_score": "0.918141"
+            }
+        ],
+        "overall_sentiment_score": 0.254259,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+            {
+                "ticker": "HRB",
+                "relevance_score": "0.201803",
+                "ticker_sentiment_score": "0.181932",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "WH",
+                "relevance_score": "0.135347",
+                "ticker_sentiment_score": "0.019452",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "BJ",
+                "relevance_score": "0.135347",
+                "ticker_sentiment_score": "0.057275",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "LYV",
+                "relevance_score": "0.266828",
+                "ticker_sentiment_score": "0.176435",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "SQ",
+                "relevance_score": "0.067919",
+                "ticker_sentiment_score": "0.019116",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "H",
+                "relevance_score": "0.201803",
+                "ticker_sentiment_score": "0.128789",
+                "ticker_sentiment_label": "Neutral"
+            }
+        ]
+    },
+    {
+        "title": "Peak Inflation Seems Behind Us: 5 Consumer Discretionary Picks",
+        "url": "https://www.zacks.com/stock/news/2018745/peak-inflation-seems-behind-us-5-consumer-discretionary-picks",
+        "time_published": "20221116T130600",
+        "authors": [
+            "Zacks Investment Research"
+        ],
+        "summary": "We have narrowed our search to five consumer discretionary stocks that have strong potential for the rest of 2022. These are: H, WH, LYV, HRB and BJ.",
+        "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/98/2230.jpg",
+        "source": "Zacks Commentary",
+        "category_within_source": "n/a",
+        "source_domain": "www.zacks.com",
+        "topics": [
+            {
+                "topic": "Economy - Monetary",
+                "relevance_score": "0.99489"
+            },
+            {
+                "topic": "Retail & Wholesale",
+                "relevance_score": "0.333333"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "0.333333"
+            },
+            {
+                "topic": "Earnings",
+                "relevance_score": "0.999855"
+            },
+            {
+                "topic": "Technology",
+                "relevance_score": "0.333333"
+            },
+            {
+                "topic": "Financial Markets",
+                "relevance_score": "0.918141"
+            }
+        ],
+        "overall_sentiment_score": 0.258939,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+            {
+                "ticker": "HRB",
+                "relevance_score": "0.176631",
+                "ticker_sentiment_score": "0.20984",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "WH",
+                "relevance_score": "0.106541",
+                "ticker_sentiment_score": "0.023142",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "BJ",
+                "relevance_score": "0.106541",
+                "ticker_sentiment_score": "0.071808",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "LYV",
+                "relevance_score": "0.245339",
+                "ticker_sentiment_score": "0.202783",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "SQ",
+                "relevance_score": "0.035608",
+                "ticker_sentiment_score": "0.028232",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "H",
+                "relevance_score": "0.176631",
+                "ticker_sentiment_score": "0.147931",
+                "ticker_sentiment_label": "Neutral"
+            }
+        ]
+    },
+    {
+        "title": "Las Vegas Sands  ( LVS )  Up 29% in 6 Months: Can the Upside Last?",
+        "url": "https://www.zacks.com/stock/news/2018488/las-vegas-sands-lvs-up-29-in-6-months-can-the-upside-last",
+        "time_published": "20221115T160500",
+        "authors": [
+            "Zacks Investment Research"
+        ],
+        "summary": "Las Vegas Sands (LVS) benefits from an increase in visitation, growth prospects in Singapore and investments in Macao.",
+        "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/7a/394.jpg",
+        "source": "Zacks Commentary",
+        "category_within_source": "n/a",
+        "source_domain": "www.zacks.com",
+        "topics": [
+            {
+                "topic": "Manufacturing",
+                "relevance_score": "0.5"
+            },
+            {
+                "topic": "Earnings",
+                "relevance_score": "0.976913"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "0.5"
+            },
+            {
+                "topic": "Financial Markets",
+                "relevance_score": "0.214378"
+            }
+        ],
+        "overall_sentiment_score": 0.199401,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+            {
+                "ticker": "BYD",
+                "relevance_score": "0.232996",
+                "ticker_sentiment_score": "0.15244",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "CROX",
+                "relevance_score": "0.288893",
+                "ticker_sentiment_score": "0.180795",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "LVS",
+                "relevance_score": "0.232996",
+                "ticker_sentiment_score": "0.375528",
+                "ticker_sentiment_label": "Bullish"
+            },
+            {
+                "ticker": "H",
+                "relevance_score": "0.175859",
+                "ticker_sentiment_score": "0.123182",
+                "ticker_sentiment_label": "Neutral"
+            }
+        ]
+    },
+    {
+        "title": "Here's Why You Should Retain Planet Fitness  ( PLNT )  Stock",
+        "url": "https://www.zacks.com/stock/news/2018463/heres-why-you-should-retain-planet-fitness-plnt-stock",
+        "time_published": "20221115T150300",
+        "authors": [
+            "Zacks Investment Research"
+        ],
+        "summary": "Planet Fitness (PLNT) benefits from solid membership growth buoyed by marketing and promotional offerings. However, inflationary pressures are a concern.",
+        "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/bf/729.jpg",
+        "source": "Zacks Commentary",
+        "category_within_source": "n/a",
+        "source_domain": "www.zacks.com",
+        "topics": [
+            {
+                "topic": "Manufacturing",
+                "relevance_score": "0.5"
+            },
+            {
+                "topic": "Earnings",
+                "relevance_score": "0.99246"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "0.5"
+            },
+            {
+                "topic": "Financial Markets",
+                "relevance_score": "0.161647"
+            }
+        ],
+        "overall_sentiment_score": 0.193284,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+            {
+                "ticker": "BYD",
+                "relevance_score": "0.183198",
+                "ticker_sentiment_score": "0.116694",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "CROX",
+                "relevance_score": "0.227859",
+                "ticker_sentiment_score": "0.137857",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "H",
+                "relevance_score": "0.137934",
+                "ticker_sentiment_score": "0.097215",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "PLNT",
+                "relevance_score": "0.356865",
+                "ticker_sentiment_score": "0.272531",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            }
+        ]
+    },
+    {
+        "title": "The Zacks Analyst Blog Highlights Hyatt Hotels, Hilton Grand Vacations, Wyndham Hotels & Resorts and Marriott Vacations Worldwide",
+        "url": "https://www.zacks.com/stock/news/2018239/the-zacks-analyst-blog-highlights-hyatt-hotels-hilton-grand-vacations-wyndham-hotels-resorts-and-marriott-vacations-worldwide",
+        "time_published": "20221115T113700",
+        "authors": [
+            "Zacks Investment Research"
+        ],
+        "summary": "Hyatt Hotels, Hilton Grand Vacations, Wyndham Hotels & Resorts and Marriott Vacations Worldwide are included in this Analyst Blog.",
+        "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/2d/3220.jpg",
+        "source": "Zacks Commentary",
+        "category_within_source": "n/a",
+        "source_domain": "www.zacks.com",
+        "topics": [
+            {
+                "topic": "Earnings",
+                "relevance_score": "0.998626"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "1.0"
+            },
+            {
+                "topic": "Economy - Monetary",
+                "relevance_score": "0.451494"
+            }
+        ],
+        "overall_sentiment_score": 0.148959,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+            {
+                "ticker": "VAC",
+                "relevance_score": "0.313318",
+                "ticker_sentiment_score": "0.095811",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "WH",
+                "relevance_score": "0.313318",
+                "ticker_sentiment_score": "0.104775",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "H",
+                "relevance_score": "0.237745",
+                "ticker_sentiment_score": "0.112895",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "HGV",
+                "relevance_score": "0.313318",
+                "ticker_sentiment_score": "0.168965",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            }
+        ]
+    },
+    {
+        "title": "Here's Why You Should Retain Choice Hotels'  ( CHH )  Stock",
+        "url": "https://www.zacks.com/stock/news/2018039/heres-why-you-should-retain-choice-hotels-chh-stock",
+        "time_published": "20221114T183600",
+        "authors": [
+            "Zacks Investment Research"
+        ],
+        "summary": "Choice Hotels (CHH) focuses on integrating the Radisson Americas business to drive growth. However, pandemic-induced demand volatility is a concern.",
+        "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/fd/2510.jpg",
+        "source": "Zacks Commentary",
+        "category_within_source": "n/a",
+        "source_domain": "www.zacks.com",
+        "topics": [
+            {
+                "topic": "Manufacturing",
+                "relevance_score": "0.5"
+            },
+            {
+                "topic": "Earnings",
+                "relevance_score": "0.993856"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "0.5"
+            },
+            {
+                "topic": "Financial Markets",
+                "relevance_score": "0.214378"
+            }
+        ],
+        "overall_sentiment_score": 0.228222,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+            {
+                "ticker": "BYD",
+                "relevance_score": "0.203215",
+                "ticker_sentiment_score": "0.126094",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "CROX",
+                "relevance_score": "0.252463",
+                "ticker_sentiment_score": "0.149588",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "H",
+                "relevance_score": "0.153145",
+                "ticker_sentiment_score": "0.103366",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "CHH",
+                "relevance_score": "0.3007",
+                "ticker_sentiment_score": "0.213087",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            }
+        ]
+    },
+    {
+        "title": "Holiday Season Travel Projected to Soar: 4 Stocks to Watch",
+        "url": "https://www.zacks.com/stock/news/2017680/holiday-season-travel-projected-to-soar-4-stocks-to-watch",
+        "time_published": "20221114T124600",
+        "authors": [
+            "Zacks Investment Research"
+        ],
+        "summary": "Americans are planning to go on vacation this holiday season, prompting employers to ramp up hiring and helping stocks like Hyatt Hotels (H), Hilton Grand Vacations (HGV), Wyndham Hotels & Resorts (WH) and Marriott Vacations Worldwide (VAC).",
+        "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/1a/20796.jpg",
+        "source": "Zacks Commentary",
+        "category_within_source": "n/a",
+        "source_domain": "www.zacks.com",
+        "topics": [
+            {
+                "topic": "Earnings",
+                "relevance_score": "0.998626"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "1.0"
+            },
+            {
+                "topic": "Economy - Monetary",
+                "relevance_score": "0.451494"
+            }
+        ],
+        "overall_sentiment_score": 0.15598,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+            {
+                "ticker": "VAC",
+                "relevance_score": "0.296377",
+                "ticker_sentiment_score": "0.117406",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "WH",
+                "relevance_score": "0.296377",
+                "ticker_sentiment_score": "0.134559",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "H",
+                "relevance_score": "0.214177",
+                "ticker_sentiment_score": "0.130732",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "HGV",
+                "relevance_score": "0.296377",
+                "ticker_sentiment_score": "0.21466",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            }
+        ]
+    },
+    {
+        "title": "Here's Why You Should Retain Pool Corp  ( POOL )  Stock Now",
+        "url": "https://www.zacks.com/stock/news/2017472/heres-why-you-should-retain-pool-corp-pool-stock-now",
+        "time_published": "20221111T165100",
+        "authors": [
+            "Zacks Investment Research"
+        ],
+        "summary": "Pool Corp's (POOL) emphasis on new pool construction and remodel activity bode well. However, a tight labor market is a concern.",
+        "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/c1/2695.jpg",
+        "source": "Zacks Commentary",
+        "category_within_source": "n/a",
+        "source_domain": "www.zacks.com",
+        "topics": [
+            {
+                "topic": "Retail & Wholesale",
+                "relevance_score": "0.333333"
+            },
+            {
+                "topic": "Manufacturing",
+                "relevance_score": "0.333333"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "0.333333"
+            },
+            {
+                "topic": "Financial Markets",
+                "relevance_score": "0.161647"
+            },
+            {
+                "topic": "Earnings",
+                "relevance_score": "0.976913"
+            }
+        ],
+        "overall_sentiment_score": 0.155286,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+            {
+                "ticker": "BYD",
+                "relevance_score": "0.196212",
+                "ticker_sentiment_score": "0.121202",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "CROX",
+                "relevance_score": "0.243864",
+                "ticker_sentiment_score": "0.143648",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "H",
+                "relevance_score": "0.147818",
+                "ticker_sentiment_score": "0.099852",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "POOL",
+                "relevance_score": "0.147818",
+                "ticker_sentiment_score": "0.179824",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            }
+        ]
+    },
+    {
+        "title": "Best Momentum Stocks to Buy for November 11th",
+        "url": "https://www.zacks.com/commentary/2017224/best-momentum-stocks-to-buy-for-november-11th",
+        "time_published": "20221111T150000",
+        "authors": [
+            "Zacks Investment Research"
+        ],
+        "summary": "H, TPL and PRDO made it to the Zacks Rank #1 (Strong Buy) momentum stocks list on November 11, 2022.",
+        "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/65/143.jpg",
+        "source": "Zacks Commentary",
+        "category_within_source": "n/a",
+        "source_domain": "www.zacks.com",
+        "topics": [
+            {
+                "topic": "Earnings",
+                "relevance_score": "0.451494"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "1.0"
+            }
+        ],
+        "overall_sentiment_score": 0.129745,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+            {
+                "ticker": "PRDO",
+                "relevance_score": "0.578355",
+                "ticker_sentiment_score": "0.161506",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "TPL",
+                "relevance_score": "0.578355",
+                "ticker_sentiment_score": "0.14821",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "H",
+                "relevance_score": "0.578355",
+                "ticker_sentiment_score": "0.31586",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            }
+        ]
+    },
+    {
+        "title": "New Strong Buy Stocks for November 11th",
+        "url": "https://www.zacks.com/commentary/2016515/new-strong-buy-stocks-for-november-11th",
+        "time_published": "20221111T120300",
+        "authors": [
+            "Zacks Investment Research"
+        ],
+        "summary": "H, CVCO, PRDO, IBA and FIX have been added to the Zacks Rank #1 (Strong Buy) List on November 11, 2022.",
+        "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/73/2669.jpg",
+        "source": "Zacks Commentary",
+        "category_within_source": "n/a",
+        "source_domain": "www.zacks.com",
+        "topics": [
+            {
+                "topic": "Earnings",
+                "relevance_score": "0.682689"
+            },
+            {
+                "topic": "Manufacturing",
+                "relevance_score": "0.5"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "0.5"
+            }
+        ],
+        "overall_sentiment_score": 0.144866,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+            {
+                "ticker": "PRDO",
+                "relevance_score": "0.412861",
+                "ticker_sentiment_score": "0.155046",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "FIX",
+                "relevance_score": "0.412861",
+                "ticker_sentiment_score": "0.109082",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "CVCO",
+                "relevance_score": "0.412861",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "H",
+                "relevance_score": "0.412861",
+                "ticker_sentiment_score": "0.200493",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            }
+        ]
+    },
+    {
+        "title": "Want to Hold Onto Elite Status With Your Airline? It's Going to Cost You.",
+        "url": "https://www.nytimes.com/2022/11/11/travel/hotel-airline-loyalty-programs.html",
+        "time_published": "20221111T100010",
+        "authors": [],
+        "summary": "There was a moment at the height of the pandemic when rewards programs were lowering the velvet rope for more than the privileged few. But it's time to prepare for the 'great reset' in elite status.",
+        "banner_image": "https://static01.nyt.com/images/2022/11/11/travel/11Travel-loyalty-illo/11Travel-loyalty-illo-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+        "source": "New York Times",
+        "category_within_source": "Business",
+        "source_domain": "www.nytimes.com",
+        "topics": [
+            {
+                "topic": "Manufacturing",
+                "relevance_score": "0.2"
+            },
+            {
+                "topic": "Energy & Transportation",
+                "relevance_score": "0.2"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "0.2"
+            },
+            {
+                "topic": "Earnings",
+                "relevance_score": "0.158519"
+            },
+            {
+                "topic": "Finance",
+                "relevance_score": "0.2"
+            },
+            {
+                "topic": "Technology",
+                "relevance_score": "0.2"
+            }
+        ],
+        "overall_sentiment_score": 0.302143,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+            {
+                "ticker": "MAR",
+                "relevance_score": "0.019748",
+                "ticker_sentiment_score": "0.146159",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "META",
+                "relevance_score": "0.019748",
+                "ticker_sentiment_score": "0.104333",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "UAL",
+                "relevance_score": "0.039483",
+                "ticker_sentiment_score": "0.226631",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "AAL",
+                "relevance_score": "0.137559",
+                "ticker_sentiment_score": "0.171301",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "DAL",
+                "relevance_score": "0.019748",
+                "ticker_sentiment_score": "0.22767",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "AXP",
+                "relevance_score": "0.019748",
+                "ticker_sentiment_score": "-0.025065",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "H",
+                "relevance_score": "0.019748",
+                "ticker_sentiment_score": "0.146159",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "NYT",
+                "relevance_score": "0.019748",
+                "ticker_sentiment_score": "0.104333",
+                "ticker_sentiment_label": "Neutral"
+            }
+        ]
+    },
+    {
+        "title": "Sotherly Hotels Inc. Reports Financial Results For The Third Quarter Ended September 30, 2022",
+        "url": "https://www.globenewswire.com/news-release/2022/11/10/2552916/31948/en/Sotherly-Hotels-Inc-Reports-Financial-Results-For-The-Third-Quarter-Ended-September-30-2022.html",
+        "time_published": "20221110T113000",
+        "authors": [
+            "Sotherly Hotels Inc."
+        ],
+        "summary": "WILLIAMSBURG, Va., Nov. 10, 2022 ( GLOBE NEWSWIRE ) -- Sotherly Hotels Inc. ( NASDAQ: SOHO ) , ( \"Sotherly\" or the \"Company\" ) , a self-managed and self-administered lodging real estate investment trust ( a \"REIT\" ) , today reported its consolidated results for the third quarter ended September ...",
+        "banner_image": "https://ml.globenewswire.com/Resource/Download/0d30c244-f83e-45a0-bd34-389261843c54?size=1",
+        "source": "GlobeNewswire",
+        "category_within_source": "n/a",
+        "source_domain": "www.globenewswire.com",
+        "topics": [
+            {
+                "topic": "Earnings",
+                "relevance_score": "1.0"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "1.0"
+            },
+            {
+                "topic": "Financial Markets",
+                "relevance_score": "1.0"
+            },
+            {
+                "topic": "Economy - Monetary",
+                "relevance_score": "0.158519"
+            }
+        ],
+        "overall_sentiment_score": 0.130238,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+            {
+                "ticker": "SOHO",
+                "relevance_score": "0.094977",
+                "ticker_sentiment_score": "0.068437",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "HLT",
+                "relevance_score": "0.0136",
+                "ticker_sentiment_score": "0.167426",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "H",
+                "relevance_score": "0.0136",
+                "ticker_sentiment_score": "0.167426",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            }
+        ]
+    },
+    {
+        "title": "Journera Appoints Tim Knowling Senior VP, Business Development",
+        "url": "https://www.prnewswire.com/news-releases/journera-appoints-tim-knowling-senior-vp-business-development-301672718.html",
+        "time_published": "20221109T144000",
+        "authors": [
+            "Journera"
+        ],
+        "summary": "CHICAGO, Nov. 9, 2022 /PRNewswire/ -- Journera, recognized as one of the World's 10 Most Innovative Travel Companies by Fast Company and a Technology Pioneer by the World Economic Forum, today announced that travel industry veteran Tim Knowling is joining the company as Senior Vice President, ...",
+        "banner_image": "https://mma.prnewswire.com/media/1942156/Tim_Knowling_headshot_Journera.jpg?w=500",
+        "source": "PR Newswire",
+        "category_within_source": "n/a",
+        "source_domain": "www.prnewswire.com",
+        "topics": [
+            {
+                "topic": "Earnings",
+                "relevance_score": "0.161647"
+            },
+            {
+                "topic": "Energy & Transportation",
+                "relevance_score": "0.5"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "0.5"
+            }
+        ],
+        "overall_sentiment_score": 0.374588,
+        "overall_sentiment_label": "Bullish",
+        "ticker_sentiment": [
+            {
+                "ticker": "MAR",
+                "relevance_score": "0.08687",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "IHG",
+                "relevance_score": "0.08687",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "AAL",
+                "relevance_score": "0.172713",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "UAL",
+                "relevance_score": "0.08687",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "H",
+                "relevance_score": "0.08687",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            }
+        ]
+    },
+    {
+        "title": "What Makes Hyatt Hotels  ( H )  a New Buy Stock",
+        "url": "https://www.zacks.com/stock/news/2015601/what-makes-hyatt-hotels-h-a-new-buy-stock",
+        "time_published": "20221108T170007",
+        "authors": [
+            "Zacks Investment Research"
+        ],
+        "summary": "Hyatt Hotels (H) might move higher on growing optimism about its earnings prospects, which is reflected by its upgrade to a Zacks Rank #2 (Buy).",
+        "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default196.jpg",
+        "source": "Zacks Commentary",
+        "category_within_source": "n/a",
+        "source_domain": "www.zacks.com",
+        "topics": [
+            {
+                "topic": "Earnings",
+                "relevance_score": "0.997845"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "1.0"
+            },
+            {
+                "topic": "Financial Markets",
+                "relevance_score": "0.658903"
+            }
+        ],
+        "overall_sentiment_score": 0.307992,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+            {
+                "ticker": "H",
+                "relevance_score": "0.364275",
+                "ticker_sentiment_score": "0.354956",
+                "ticker_sentiment_label": "Bullish"
+            }
+        ]
+    },
+    {
+        "title": "Zacks Earnings ESP: A Better Way to Find Earnings Surprises for Consumer Discretionary",
+        "url": "https://www.zacks.com/stock/news/2015346/zacks-earnings-esp-a-better-way-to-find-earnings-surprises-for-consumer-discretionary",
+        "time_published": "20221108T135004",
+        "authors": [
+            "Zacks Investment Research"
+        ],
+        "summary": "Why investors should use the Zacks Earnings ESP tool to help find stocks that are poised to top quarterly earnings estimates.",
+        "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default281.jpg",
+        "source": "Zacks Commentary",
+        "category_within_source": "n/a",
+        "source_domain": "www.zacks.com",
+        "topics": [
+            {
+                "topic": "Earnings",
+                "relevance_score": "0.999996"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "1.0"
+            },
+            {
+                "topic": "Financial Markets",
+                "relevance_score": "0.365926"
+            }
+        ],
+        "overall_sentiment_score": 0.336895,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+            {
+                "ticker": "H",
+                "relevance_score": "0.256989",
+                "ticker_sentiment_score": "0.261822",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            }
+        ]
+    },
+    {
+        "title": "Billionaire Investor Ron Baron Sees 'Big Opportunities'-And Remains Bullish On Tesla-Despite Market 'Chaos'",
+        "url": "https://www.forbes.com/sites/sergeiklebnikov/2022/11/08/billionaire-investor-ron-baron-sees-big-opportunities-and-remains-bullish-on-tesla-despite-market-chaos/",
+        "time_published": "20221108T120000",
+        "authors": [
+            "Sergei Klebnikov"
+        ],
+        "summary": "Baron has a staggering 45% of one of his largest funds invested in Tesla stock. He predicts the carmaker will eventually become the \"largest and most profitable company in the world.\" ...",
+        "banner_image": "https://imageio.forbes.com/specials-images/imageserve/6369d4bb4be91758d8af29b7/0x0.jpg?format=jpg&width=1200",
+        "source": "Forbes",
+        "category_within_source": "Markets",
+        "source_domain": "www.forbes.com",
+        "topics": [
+            {
+                "topic": "Manufacturing",
+                "relevance_score": "0.5"
+            },
+            {
+                "topic": "Earnings",
+                "relevance_score": "0.905476"
+            },
+            {
+                "topic": "IPO",
+                "relevance_score": "0.158519"
+            },
+            {
+                "topic": "Financial Markets",
+                "relevance_score": "0.999355"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "0.5"
+            }
+        ],
+        "overall_sentiment_score": 0.234773,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+            {
+                "ticker": "TSLA",
+                "relevance_score": "0.309068",
+                "ticker_sentiment_score": "0.229016",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "MTN",
+                "relevance_score": "0.028833",
+                "ticker_sentiment_score": "0.075928",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "H",
+                "relevance_score": "0.028833",
+                "ticker_sentiment_score": "0.119338",
+                "ticker_sentiment_label": "Neutral"
+            }
+        ]
+    },
+    {
+        "title": "Market Rally Tumbles On Hawkish Powell: Weekly Review",
+        "url": "https://www.investors.com/news/stock-market-rally-tumbles-on-hawkish-fed-chief-powell-jobs-earnings-also-in-focus-weekly-review/",
+        "time_published": "20221104T160647",
+        "authors": [
+            "IBD STAFF",
+            "Investor's Business Daily"
+        ],
+        "summary": "The stock market rally came under pressure as the major indexes reversed sharply lower following the latest big Fed rate hike and Fed chief Jerome Powell's hawkish comments about peak rates. The jobs report was mixed, with nonfarm payrolls higher than expected but unemployment also climbing.",
+        "banner_image": "https://www.investors.com/wp-content/uploads/2022/06/Stock-jeromepowell2022-02-gov.jpg",
+        "source": "Investors Business Daily",
+        "category_within_source": "n/a",
+        "source_domain": "www.investors.com",
+        "topics": [
+            {
+                "topic": "Energy & Transportation",
+                "relevance_score": "0.142857"
+            },
+            {
+                "topic": "Life Sciences",
+                "relevance_score": "0.142857"
+            },
+            {
+                "topic": "Economy - Monetary",
+                "relevance_score": "0.310843"
+            },
+            {
+                "topic": "Retail & Wholesale",
+                "relevance_score": "0.142857"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "0.142857"
+            },
+            {
+                "topic": "Earnings",
+                "relevance_score": "1.0"
+            },
+            {
+                "topic": "Finance",
+                "relevance_score": "0.142857"
+            },
+            {
+                "topic": "Technology",
+                "relevance_score": "0.142857"
+            },
+            {
+                "topic": "Manufacturing",
+                "relevance_score": "0.142857"
+            },
+            {
+                "topic": "Financial Markets",
+                "relevance_score": "0.999987"
+            },
+            {
+                "topic": "Blockchain",
+                "relevance_score": "0.158519"
+            }
+        ],
+        "overall_sentiment_score": -0.056336,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+            {
+                "ticker": "MCK",
+                "relevance_score": "0.051221",
+                "ticker_sentiment_score": "0.049997",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "FTNT",
+                "relevance_score": "0.051221",
+                "ticker_sentiment_score": "-0.151002",
+                "ticker_sentiment_label": "Somewhat-Bearish"
+            },
+            {
+                "ticker": "MPC",
+                "relevance_score": "0.03416",
+                "ticker_sentiment_score": "0.245454",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "ANET",
+                "relevance_score": "0.03416",
+                "ticker_sentiment_score": "0.187601",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "H",
+                "relevance_score": "0.03416",
+                "ticker_sentiment_score": "0.069785",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "MRO",
+                "relevance_score": "0.03416",
+                "ticker_sentiment_score": "0.007911",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "COIN",
+                "relevance_score": "0.03416",
+                "ticker_sentiment_score": "-0.142147",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "SQ",
+                "relevance_score": "0.051221",
+                "ticker_sentiment_score": "-0.143001",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "BA",
+                "relevance_score": "0.03416",
+                "ticker_sentiment_score": "0.064211",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "RMBS",
+                "relevance_score": "0.03416",
+                "ticker_sentiment_score": "-0.103383",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "NIO",
+                "relevance_score": "0.068258",
+                "ticker_sentiment_score": "-0.022158",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "QLYS",
+                "relevance_score": "0.051221",
+                "ticker_sentiment_score": "-0.151002",
+                "ticker_sentiment_label": "Somewhat-Bearish"
+            },
+            {
+                "ticker": "PYPL",
+                "relevance_score": "0.068258",
+                "ticker_sentiment_score": "-0.144839",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "ALB",
+                "relevance_score": "0.068258",
+                "ticker_sentiment_score": "0.052936",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "QCOM",
+                "relevance_score": "0.03416",
+                "ticker_sentiment_score": "-0.103383",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "NET",
+                "relevance_score": "0.068258",
+                "ticker_sentiment_score": "-0.161649",
+                "ticker_sentiment_label": "Somewhat-Bearish"
+            },
+            {
+                "ticker": "DVN",
+                "relevance_score": "0.03416",
+                "ticker_sentiment_score": "0.007911",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "CROX",
+                "relevance_score": "0.051221",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "META",
+                "relevance_score": "0.03416",
+                "ticker_sentiment_score": "0.187601",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "ABNB",
+                "relevance_score": "0.03416",
+                "ticker_sentiment_score": "0.069785",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "PAYC",
+                "relevance_score": "0.03416",
+                "ticker_sentiment_score": "-0.08882",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "UBER",
+                "relevance_score": "0.051221",
+                "ticker_sentiment_score": "-0.244574",
+                "ticker_sentiment_label": "Somewhat-Bearish"
+            },
+            {
+                "ticker": "PFE",
+                "relevance_score": "0.085264",
+                "ticker_sentiment_score": "-0.075608",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "XPEV",
+                "relevance_score": "0.03416",
+                "ticker_sentiment_score": "-0.021123",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "ROKU",
+                "relevance_score": "0.03416",
+                "ticker_sentiment_score": "-0.170959",
+                "ticker_sentiment_label": "Somewhat-Bearish"
+            },
+            {
+                "ticker": "LI",
+                "relevance_score": "0.03416",
+                "ticker_sentiment_score": "-0.021123",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "HUM",
+                "relevance_score": "0.051221",
+                "ticker_sentiment_score": "0.15473",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "CI",
+                "relevance_score": "0.051221",
+                "ticker_sentiment_score": "0.15473",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "LLY",
+                "relevance_score": "0.068258",
+                "ticker_sentiment_score": "-0.072987",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "MAR",
+                "relevance_score": "0.03416",
+                "ticker_sentiment_score": "0.069785",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "CNC",
+                "relevance_score": "0.03416",
+                "ticker_sentiment_score": "0.149616",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "ILMN",
+                "relevance_score": "0.03416",
+                "ticker_sentiment_score": "-0.02799",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "SWKS",
+                "relevance_score": "0.03416",
+                "ticker_sentiment_score": "-0.103383",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "EXPE",
+                "relevance_score": "0.03416",
+                "ticker_sentiment_score": "0.069785",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "QRVO",
+                "relevance_score": "0.03416",
+                "ticker_sentiment_score": "-0.103383",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "TSLA",
+                "relevance_score": "0.051221",
+                "ticker_sentiment_score": "0.013993",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "NBIX",
+                "relevance_score": "0.051221",
+                "ticker_sentiment_score": "-0.087823",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "PCTY",
+                "relevance_score": "0.03416",
+                "ticker_sentiment_score": "-0.08882",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "TPX",
+                "relevance_score": "0.051221",
+                "ticker_sentiment_score": "-0.306036",
+                "ticker_sentiment_label": "Somewhat-Bearish"
+            },
+            {
+                "ticker": "ABMD",
+                "relevance_score": "0.03416",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "CAH",
+                "relevance_score": "0.03416",
+                "ticker_sentiment_score": "0.048626",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "EOG",
+                "relevance_score": "0.03416",
+                "ticker_sentiment_score": "0.007911",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "MRNA",
+                "relevance_score": "0.051221",
+                "ticker_sentiment_score": "-0.087823",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "JNJ",
+                "relevance_score": "0.03416",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "BRK-A",
+                "relevance_score": "0.017084",
+                "ticker_sentiment_score": "-0.019211",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "LTHM",
+                "relevance_score": "0.085264",
+                "ticker_sentiment_score": "0.055016",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "CRYPTO:BTC",
+                "relevance_score": "0.017084",
+                "ticker_sentiment_score": "-0.130834",
+                "ticker_sentiment_label": "Neutral"
+            }
+        ]
+    },
+    {
+        "title": "Marriott, Hyatt Hotels Have Earnings Booked For Thursday",
+        "url": "https://www.investors.com/news/marriott-hyatt-hotels-q3-earnings/",
+        "time_published": "20221102T120013",
+        "authors": [
+            "HARRISON MILLER",
+            "Investor's Business Daily"
+        ],
+        "summary": "Marriott, Hyatt Hotels Lead Travel Earnings | Investor's Business Daily Investor's Business Daily ...",
+        "banner_image": "https://www.investors.com/wp-content/uploads/2018/05/stock-Marriott-01-shutter.jpg",
+        "source": "Investors Business Daily",
+        "category_within_source": "n/a",
+        "source_domain": "www.investors.com",
+        "topics": [
+            {
+                "topic": "Earnings",
+                "relevance_score": "0.999981"
+            },
+            {
+                "topic": "Energy & Transportation",
+                "relevance_score": "0.333333"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "0.333333"
+            },
+            {
+                "topic": "Financial Markets",
+                "relevance_score": "0.365926"
+            },
+            {
+                "topic": "Finance",
+                "relevance_score": "0.333333"
+            }
+        ],
+        "overall_sentiment_score": 0.155823,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+            {
+                "ticker": "ABNB",
+                "relevance_score": "0.137671",
+                "ticker_sentiment_score": "0.139431",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "EVR",
+                "relevance_score": "0.069094",
+                "ticker_sentiment_score": "0.009096",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "MAR",
+                "relevance_score": "0.512093",
+                "ticker_sentiment_score": "0.205555",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "EXPE",
+                "relevance_score": "0.137671",
+                "ticker_sentiment_score": "0.139431",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "H",
+                "relevance_score": "0.335367",
+                "ticker_sentiment_score": "0.161703",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "FOREX:USD",
+                "relevance_score": "0.069094",
+                "ticker_sentiment_score": "-0.075613",
+                "ticker_sentiment_label": "Neutral"
+            }
+        ]
+    },
+    {
+        "title": "Rally in China and Decent Earnings Lift Stocks Early, but Fed Meeting Starting Today Could Be Pivotal",
+        "url": "https://www.benzinga.com/news/earnings/22/11/29503918/rally-in-china-and-decent-earnings-lift-stocks-early-but-fed-meeting-starting-today-could-be-pivota",
+        "time_published": "20221101T144945",
+        "authors": [
+            "Shawn Cruz"
+        ],
+        "summary": "( Tuesday Market Open ) November is starting where October left off-with big gains for the stock market. But the Federal Reserve meeting kicking off today and finishing tomorrow afternoon with a rate announcement could determine whether this happy trend continues.",
+        "banner_image": "https://cdn.benzinga.com/files/images/story/2022/11/01/shutterstock_1049641082_2.jpg?width=1200&height=800&fit=crop",
+        "source": "Benzinga",
+        "category_within_source": "News",
+        "source_domain": "www.benzinga.com",
+        "topics": [
+            {
+                "topic": "Energy & Transportation",
+                "relevance_score": "0.166667"
+            },
+            {
+                "topic": "Life Sciences",
+                "relevance_score": "0.166667"
+            },
+            {
+                "topic": "Economy - Monetary",
+                "relevance_score": "0.9545"
+            },
+            {
+                "topic": "Retail & Wholesale",
+                "relevance_score": "0.166667"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "0.166667"
+            },
+            {
+                "topic": "Earnings",
+                "relevance_score": "1.0"
+            },
+            {
+                "topic": "Economy - Macro",
+                "relevance_score": "0.158519"
+            },
+            {
+                "topic": "Technology",
+                "relevance_score": "0.166667"
+            },
+            {
+                "topic": "Financial Markets",
+                "relevance_score": "0.999966"
+            },
+            {
+                "topic": "Manufacturing",
+                "relevance_score": "0.166667"
+            }
+        ],
+        "overall_sentiment_score": 0.045796,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+            {
+                "ticker": "MAR",
+                "relevance_score": "0.034958",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "CVS",
+                "relevance_score": "0.034958",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "MDNDF",
+                "relevance_score": "0.017483",
+                "ticker_sentiment_score": "0.02106",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "ZBH",
+                "relevance_score": "0.034958",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "DUK",
+                "relevance_score": "0.034958",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "KODK",
+                "relevance_score": "0.017483",
+                "ticker_sentiment_score": "0.0517",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "K",
+                "relevance_score": "0.034958",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "H",
+                "relevance_score": "0.034958",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "YUM",
+                "relevance_score": "0.034958",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "DDS",
+                "relevance_score": "0.034958",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "PG",
+                "relevance_score": "0.034958",
+                "ticker_sentiment_score": "0.023137",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "NXPI",
+                "relevance_score": "0.052416",
+                "ticker_sentiment_score": "0.06",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "ROKU",
+                "relevance_score": "0.034958",
+                "ticker_sentiment_score": "0.035815",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "UBER",
+                "relevance_score": "0.034958",
+                "ticker_sentiment_score": "0.280027",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "PFE",
+                "relevance_score": "0.052416",
+                "ticker_sentiment_score": "0.186002",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "DD",
+                "relevance_score": "0.034958",
+                "ticker_sentiment_score": "-0.11565",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "SYK",
+                "relevance_score": "0.034958",
+                "ticker_sentiment_score": "-0.012963",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "LLY",
+                "relevance_score": "0.034958",
+                "ticker_sentiment_score": "-0.055956",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "RIVN",
+                "relevance_score": "0.034958",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "APE",
+                "relevance_score": "0.017483",
+                "ticker_sentiment_score": "-0.105519",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "BNTX",
+                "relevance_score": "0.034958",
+                "ticker_sentiment_score": "0.104958",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "WEN",
+                "relevance_score": "0.034958",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "ILMN",
+                "relevance_score": "0.034958",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "RL",
+                "relevance_score": "0.034958",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "AZN",
+                "relevance_score": "0.034958",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "WYNN",
+                "relevance_score": "0.034958",
+                "ticker_sentiment_score": "-0.11565",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "CLX",
+                "relevance_score": "0.052416",
+                "ticker_sentiment_score": "-0.003999",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "HSY",
+                "relevance_score": "0.034958",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "AMD",
+                "relevance_score": "0.104607",
+                "ticker_sentiment_score": "-0.01775",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "INTC",
+                "relevance_score": "0.069849",
+                "ticker_sentiment_score": "-0.034588",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "CAH",
+                "relevance_score": "0.034958",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "EXCVV",
+                "relevance_score": "0.017483",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "ABMD",
+                "relevance_score": "0.052416",
+                "ticker_sentiment_score": "0.300856",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "PENN",
+                "relevance_score": "0.034958",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "SBUX",
+                "relevance_score": "0.087249",
+                "ticker_sentiment_score": "0.023845",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "JNJ",
+                "relevance_score": "0.034958",
+                "ticker_sentiment_score": "0.294083",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "KO",
+                "relevance_score": "0.034958",
+                "ticker_sentiment_score": "0.023137",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "FOREX:USD",
+                "relevance_score": "0.017483",
+                "ticker_sentiment_score": "-0.032285",
+                "ticker_sentiment_label": "Neutral"
+            }
+        ]
+    },
+    {
+        "title": "Investing Action Plan: A Forked Market Heads For The Fed",
+        "url": "https://www.investors.com/research/investing-action-plan/stock-market-investing-action-plan-a-forked-market-heads-for-the-fed/",
+        "time_published": "20221028T224200",
+        "authors": [
+            "IBD STAFF",
+            "Investor's Business Daily"
+        ],
+        "summary": "The S&P 500 and the Dow industrials retook technical support at critical levels on Friday. The Nasdaq ran cooler, as earnings disappointments unraveled Amazon and Meta Platforms. That sends a forked stock market into the coming week's Fed policy announcement and October's payrolls report.",
+        "banner_image": "https://www.investors.com/wp-content/uploads/2019/08/tech-stocks_640x360-1.jpg",
+        "source": "Investors Business Daily",
+        "category_within_source": "n/a",
+        "source_domain": "www.investors.com",
+        "topics": [
+            {
+                "topic": "Energy & Transportation",
+                "relevance_score": "0.142857"
+            },
+            {
+                "topic": "Life Sciences",
+                "relevance_score": "0.142857"
+            },
+            {
+                "topic": "Retail & Wholesale",
+                "relevance_score": "0.142857"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "0.142857"
+            },
+            {
+                "topic": "Earnings",
+                "relevance_score": "1.0"
+            },
+            {
+                "topic": "Finance",
+                "relevance_score": "0.142857"
+            },
+            {
+                "topic": "Technology",
+                "relevance_score": "0.142857"
+            },
+            {
+                "topic": "Financial Markets",
+                "relevance_score": "1.0"
+            },
+            {
+                "topic": "Manufacturing",
+                "relevance_score": "0.142857"
+            }
+        ],
+        "overall_sentiment_score": 0.106589,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+            {
+                "ticker": "MAR",
+                "relevance_score": "0.050894",
+                "ticker_sentiment_score": "0.156363",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "FTNT",
+                "relevance_score": "0.033942",
+                "ticker_sentiment_score": "-0.019949",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "RMBS",
+                "relevance_score": "0.033942",
+                "ticker_sentiment_score": "-0.068881",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "H",
+                "relevance_score": "0.050894",
+                "ticker_sentiment_score": "0.128773",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "CVS",
+                "relevance_score": "0.067823",
+                "ticker_sentiment_score": "0.120809",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "LI",
+                "relevance_score": "0.033942",
+                "ticker_sentiment_score": "-0.018388",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "FNKO",
+                "relevance_score": "0.033942",
+                "ticker_sentiment_score": "0.060331",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "HUM",
+                "relevance_score": "0.084722",
+                "ticker_sentiment_score": "0.124246",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "OXY",
+                "relevance_score": "0.033942",
+                "ticker_sentiment_score": "0.069885",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "MCK",
+                "relevance_score": "0.050894",
+                "ticker_sentiment_score": "-0.008981",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "NTR",
+                "relevance_score": "0.067823",
+                "ticker_sentiment_score": "0.033131",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "META",
+                "relevance_score": "0.016975",
+                "ticker_sentiment_score": "0.022589",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "FLNG",
+                "relevance_score": "0.033942",
+                "ticker_sentiment_score": "0.042269",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "ALB",
+                "relevance_score": "0.067823",
+                "ticker_sentiment_score": "0.114337",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "AMGN",
+                "relevance_score": "0.067823",
+                "ticker_sentiment_score": "-0.005035",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "QLYS",
+                "relevance_score": "0.033942",
+                "ticker_sentiment_score": "-0.019949",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "QCOM",
+                "relevance_score": "0.050894",
+                "ticker_sentiment_score": "-0.071783",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "CYBR",
+                "relevance_score": "0.033942",
+                "ticker_sentiment_score": "0.039598",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "NXPI",
+                "relevance_score": "0.033942",
+                "ticker_sentiment_score": "-0.068881",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "NIO",
+                "relevance_score": "0.067823",
+                "ticker_sentiment_score": "-0.019185",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "ABNB",
+                "relevance_score": "0.033942",
+                "ticker_sentiment_score": "0.099976",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "ROKU",
+                "relevance_score": "0.050894",
+                "ticker_sentiment_score": "0.042947",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "PFE",
+                "relevance_score": "0.067823",
+                "ticker_sentiment_score": "-0.035132",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "XPEV",
+                "relevance_score": "0.050894",
+                "ticker_sentiment_score": "-0.018993",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "HD",
+                "relevance_score": "0.033942",
+                "ticker_sentiment_score": "-0.030389",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "REGN",
+                "relevance_score": "0.033942",
+                "ticker_sentiment_score": "0.025079",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "HLN",
+                "relevance_score": "0.016975",
+                "ticker_sentiment_score": "0.02741",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "CI",
+                "relevance_score": "0.084722",
+                "ticker_sentiment_score": "0.124246",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "LLY",
+                "relevance_score": "0.050894",
+                "ticker_sentiment_score": "-0.03483",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "ON",
+                "relevance_score": "0.016975",
+                "ticker_sentiment_score": "0.036268",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "CF",
+                "relevance_score": "0.067823",
+                "ticker_sentiment_score": "0.033131",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "CNC",
+                "relevance_score": "0.033942",
+                "ticker_sentiment_score": "0.109763",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "ILMN",
+                "relevance_score": "0.033942",
+                "ticker_sentiment_score": "0.134662",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "AIG",
+                "relevance_score": "0.033942",
+                "ticker_sentiment_score": "0.076592",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "EXPE",
+                "relevance_score": "0.033942",
+                "ticker_sentiment_score": "0.099976",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "TSLA",
+                "relevance_score": "0.033942",
+                "ticker_sentiment_score": "-0.018388",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "EE",
+                "relevance_score": "0.033942",
+                "ticker_sentiment_score": "0.042269",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "AMD",
+                "relevance_score": "0.050894",
+                "ticker_sentiment_score": "-0.071783",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "NBIX",
+                "relevance_score": "0.033942",
+                "ticker_sentiment_score": "-0.033201",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "CAH",
+                "relevance_score": "0.050894",
+                "ticker_sentiment_score": "-0.008981",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "NFE",
+                "relevance_score": "0.033942",
+                "ticker_sentiment_score": "0.042269",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "MRNA",
+                "relevance_score": "0.050894",
+                "ticker_sentiment_score": "-0.007985",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "TPX",
+                "relevance_score": "0.033942",
+                "ticker_sentiment_score": "-0.020232",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "CAR",
+                "relevance_score": "0.033942",
+                "ticker_sentiment_score": "0.243309",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "GLNG",
+                "relevance_score": "0.033942",
+                "ticker_sentiment_score": "0.042269",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "BRK-A",
+                "relevance_score": "0.016975",
+                "ticker_sentiment_score": "0.06319",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "WMT",
+                "relevance_score": "0.033942",
+                "ticker_sentiment_score": "-0.030389",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "LTHM",
+                "relevance_score": "0.050894",
+                "ticker_sentiment_score": "0.113375",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "FOREX:USD",
+                "relevance_score": "0.016975",
+                "ticker_sentiment_score": "0.13817",
+                "ticker_sentiment_label": "Neutral"
+            }
+        ]
+    },
+    {
+        "title": "Red Rock Resorts  ( RRR )  Q3 Earnings & Revenues Top Estimates",
+        "url": "https://www.zacks.com/stock/news/2009451/red-rock-resorts-rrr-q3-earnings-revenues-top-estimates",
+        "time_published": "20221028T153400",
+        "authors": [
+            "Zacks Investment Research"
+        ],
+        "summary": "Red Rock Resorts' (RRR) third-quarter 2022 top line reflects dismal contributions from Las Vegas operations.",
+        "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/a0/644.jpg",
+        "source": "Zacks Commentary",
+        "category_within_source": "n/a",
+        "source_domain": "www.zacks.com",
+        "topics": [
+            {
+                "topic": "Manufacturing",
+                "relevance_score": "0.5"
+            },
+            {
+                "topic": "Earnings",
+                "relevance_score": "0.999346"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "0.5"
+            },
+            {
+                "topic": "Financial Markets",
+                "relevance_score": "0.108179"
+            }
+        ],
+        "overall_sentiment_score": 0.107443,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+            {
+                "ticker": "LYV",
+                "relevance_score": "0.248682",
+                "ticker_sentiment_score": "0.155477",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "CROX",
+                "relevance_score": "0.402618",
+                "ticker_sentiment_score": "0.224528",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "RRR",
+                "relevance_score": "0.47379",
+                "ticker_sentiment_score": "0.195839",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "H",
+                "relevance_score": "0.248682",
+                "ticker_sentiment_score": "0.155477",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            }
+        ]
+    },
+    {
+        "title": "German Inflation Data in Driver's Seat as Worrisome Reading Hits Bond Market, Raising Yields - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",
+        "url": "https://www.benzinga.com/markets/22/10/29460692/german-inflation-data-in-drivers-seat-as-worrisome-reading-hits-bond-market-raising-yields",
+        "time_published": "20221028T151118",
+        "authors": [
+            "TD Ameritrade Network"
+        ],
+        "summary": "( Friday Market Open ) It's the day after Apple AAPL and Amazon AMZN reported worrisome earnings, but German inflation data is in the driver's seat this morning. An eye-popping German October inflation reading of 11.6% raised concerns that global interest rate hikes aren't slowing prices.",
+        "banner_image": "https://cdn.benzinga.com/files/images/story/2022/10/28/shutterstock_196917239.jpg?width=1200&height=800&fit=crop",
+        "source": "Benzinga",
+        "category_within_source": "Markets",
+        "source_domain": "www.benzinga.com",
+        "topics": [
+            {
+                "topic": "Energy & Transportation",
+                "relevance_score": "0.142857"
+            },
+            {
+                "topic": "Life Sciences",
+                "relevance_score": "0.142857"
+            },
+            {
+                "topic": "Economy - Monetary",
+                "relevance_score": "0.9973"
+            },
+            {
+                "topic": "Retail & Wholesale",
+                "relevance_score": "0.142857"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "0.142857"
+            },
+            {
+                "topic": "Earnings",
+                "relevance_score": "1.0"
+            },
+            {
+                "topic": "Economy - Macro",
+                "relevance_score": "0.158519"
+            },
+            {
+                "topic": "Finance",
+                "relevance_score": "0.142857"
+            },
+            {
+                "topic": "Technology",
+                "relevance_score": "0.142857"
+            },
+            {
+                "topic": "Financial Markets",
+                "relevance_score": "0.99994"
+            },
+            {
+                "topic": "Manufacturing",
+                "relevance_score": "0.142857"
+            }
+        ],
+        "overall_sentiment_score": -0.00973,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+            {
+                "ticker": "MAR",
+                "relevance_score": "0.032961",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "CVS",
+                "relevance_score": "0.032961",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "MDNDF",
+                "relevance_score": "0.016484",
+                "ticker_sentiment_score": "0.082756",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "ZBH",
+                "relevance_score": "0.032961",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "CVX",
+                "relevance_score": "0.032961",
+                "ticker_sentiment_score": "0.188066",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "DUK",
+                "relevance_score": "0.032961",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "M",
+                "relevance_score": "0.016484",
+                "ticker_sentiment_score": "0.120225",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "K",
+                "relevance_score": "0.032961",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "H",
+                "relevance_score": "0.032961",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "YUM",
+                "relevance_score": "0.032961",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "AMZN",
+                "relevance_score": "0.131284",
+                "ticker_sentiment_score": "-0.033507",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "DD",
+                "relevance_score": "0.065866",
+                "ticker_sentiment_score": "-0.059068",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "PG",
+                "relevance_score": "0.032961",
+                "ticker_sentiment_score": "0.089746",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "HOG",
+                "relevance_score": "0.08228",
+                "ticker_sentiment_score": "0.01878",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "XOM",
+                "relevance_score": "0.032961",
+                "ticker_sentiment_score": "0.188066",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "UBER",
+                "relevance_score": "0.032961",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "PFE",
+                "relevance_score": "0.032961",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "MSFT",
+                "relevance_score": "0.065866",
+                "ticker_sentiment_score": "-0.127943",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "SYK",
+                "relevance_score": "0.032961",
+                "ticker_sentiment_score": "0.255594",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "LLY",
+                "relevance_score": "0.032961",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "APE",
+                "relevance_score": "0.016484",
+                "ticker_sentiment_score": "-0.109335",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "BNTX",
+                "relevance_score": "0.032961",
+                "ticker_sentiment_score": "0.108937",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "CNA",
+                "relevance_score": "0.032961",
+                "ticker_sentiment_score": "0.255594",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "ILMN",
+                "relevance_score": "0.032961",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "TGT",
+                "relevance_score": "0.032961",
+                "ticker_sentiment_score": "0.130078",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "EXC",
+                "relevance_score": "0.032961",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "WYNN",
+                "relevance_score": "0.032961",
+                "ticker_sentiment_score": "-0.119583",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "HSY",
+                "relevance_score": "0.032961",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "AMD",
+                "relevance_score": "0.032961",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "INTC",
+                "relevance_score": "0.032961",
+                "ticker_sentiment_score": "-0.053872",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "CAH",
+                "relevance_score": "0.032961",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "UA",
+                "relevance_score": "0.016484",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "ABMD",
+                "relevance_score": "0.032961",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "PENN",
+                "relevance_score": "0.032961",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "AAPL",
+                "relevance_score": "0.131284",
+                "ticker_sentiment_score": "-0.033442",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "WMT",
+                "relevance_score": "0.032961",
+                "ticker_sentiment_score": "0.130078",
+                "ticker_sentiment_label": "Neutral"
+            }
+        ]
+    },
+    {
+        "title": "JAKKS Pacific's  ( JAKK )  Q3 Earnings & Revenues Beat, Stock Up",
+        "url": "https://www.zacks.com/stock/news/2007203/jakks-pacifics-jakk-q3-earnings-revenues-beat-stock-up",
+        "time_published": "20221028T130100",
+        "authors": [
+            "Zacks Investment Research"
+        ],
+        "summary": "JAKKS Pacific's (JAKK) third-quarter 2022 results benefit from robust demand for its products.",
+        "banner_image": "https://staticx-tuner.zacks.com/images/articles/charts/11/5648.jpg",
+        "source": "Zacks Commentary",
+        "category_within_source": "n/a",
+        "source_domain": "www.zacks.com",
+        "topics": [
+            {
+                "topic": "Manufacturing",
+                "relevance_score": "0.5"
+            },
+            {
+                "topic": "Earnings",
+                "relevance_score": "0.999816"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "0.5"
+            },
+            {
+                "topic": "Financial Markets",
+                "relevance_score": "0.684621"
+            }
+        ],
+        "overall_sentiment_score": 0.147749,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+            {
+                "ticker": "JAKK",
+                "relevance_score": "0.417995",
+                "ticker_sentiment_score": "0.359424",
+                "ticker_sentiment_label": "Bullish"
+            },
+            {
+                "ticker": "LYV",
+                "relevance_score": "0.21686",
+                "ticker_sentiment_score": "-0.025202",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "CROX",
+                "relevance_score": "0.28636",
+                "ticker_sentiment_score": "0.146032",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "H",
+                "relevance_score": "0.21686",
+                "ticker_sentiment_score": "0.116953",
+                "ticker_sentiment_label": "Neutral"
+            }
+        ]
+    },
+    {
+        "title": "Awaiting the \"A-Team\": Amazon and Apple Prepare to Report as Market Digests a Mixed Earnings Picture, Above-Expectations GDP - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",
+        "url": "https://www.benzinga.com/markets/22/10/29443991/awaiting-the-a-team-amazon-and-apple-prepare-to-report-as-market-digests-a-mixed-earnings-picture-ab",
+        "time_published": "20221027T171125",
+        "authors": [
+            "Shawn Cruz"
+        ],
+        "summary": "( Thursday Market Open ) Get ready for a ride with the \"A-Team.\" Nope, that's not a reference to a 1980s TV show. We're talking about this afternoon when Apple AAPL and Amazon AMZN report their latest results, making this one of the most important days of earnings season.",
+        "banner_image": "https://cdn.benzinga.com/files/images/story/2022/10/27/shutterstock_1821299753.jpg?width=1200&height=800&fit=crop",
+        "source": "Benzinga",
+        "category_within_source": "Markets",
+        "source_domain": "www.benzinga.com",
+        "topics": [
+            {
+                "topic": "Energy & Transportation",
+                "relevance_score": "0.142857"
+            },
+            {
+                "topic": "Life Sciences",
+                "relevance_score": "0.142857"
+            },
+            {
+                "topic": "Economy - Fiscal",
+                "relevance_score": "0.158519"
+            },
+            {
+                "topic": "Economy - Monetary",
+                "relevance_score": "0.576289"
+            },
+            {
+                "topic": "Retail & Wholesale",
+                "relevance_score": "0.142857"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "0.142857"
+            },
+            {
+                "topic": "Earnings",
+                "relevance_score": "0.999992"
+            },
+            {
+                "topic": "Finance",
+                "relevance_score": "0.142857"
+            },
+            {
+                "topic": "Technology",
+                "relevance_score": "0.142857"
+            },
+            {
+                "topic": "Financial Markets",
+                "relevance_score": "0.998962"
+            },
+            {
+                "topic": "Manufacturing",
+                "relevance_score": "0.142857"
+            }
+        ],
+        "overall_sentiment_score": 0.043509,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+            {
+                "ticker": "MAR",
+                "relevance_score": "0.037475",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "H",
+                "relevance_score": "0.037475",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "CVS",
+                "relevance_score": "0.037475",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "MDNDF",
+                "relevance_score": "0.018743",
+                "ticker_sentiment_score": "0.0889",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "ZBH",
+                "relevance_score": "0.037475",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "CVX",
+                "relevance_score": "0.037475",
+                "ticker_sentiment_score": "0.064134",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "DUK",
+                "relevance_score": "0.037475",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "K",
+                "relevance_score": "0.037475",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "TXN",
+                "relevance_score": "0.037475",
+                "ticker_sentiment_score": "-0.134365",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "YUM",
+                "relevance_score": "0.037475",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "AMZN",
+                "relevance_score": "0.185734",
+                "ticker_sentiment_score": "-0.100964",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "DE",
+                "relevance_score": "0.037475",
+                "ticker_sentiment_score": "0.010675",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "DD",
+                "relevance_score": "0.037475",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "NKE",
+                "relevance_score": "0.037475",
+                "ticker_sentiment_score": "-0.044063",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "GOOG",
+                "relevance_score": "0.018743",
+                "ticker_sentiment_score": "-0.166195",
+                "ticker_sentiment_label": "Somewhat-Bearish"
+            },
+            {
+                "ticker": "XOM",
+                "relevance_score": "0.037475",
+                "ticker_sentiment_score": "0.064134",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "ABBV",
+                "relevance_score": "0.037475",
+                "ticker_sentiment_score": "0.064134",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "BA",
+                "relevance_score": "0.037475",
+                "ticker_sentiment_score": "0.010675",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "AMD",
+                "relevance_score": "0.037475",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "PFE",
+                "relevance_score": "0.037475",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "UBER",
+                "relevance_score": "0.037475",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "SYK",
+                "relevance_score": "0.037475",
+                "ticker_sentiment_score": "0.258559",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "LLY",
+                "relevance_score": "0.037475",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "ON",
+                "relevance_score": "0.018743",
+                "ticker_sentiment_score": "-0.040495",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "BNTX",
+                "relevance_score": "0.037475",
+                "ticker_sentiment_score": "0.110825",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "CNA",
+                "relevance_score": "0.037475",
+                "ticker_sentiment_score": "0.258559",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "ILMN",
+                "relevance_score": "0.037475",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "EXC",
+                "relevance_score": "0.037475",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "GM",
+                "relevance_score": "0.037475",
+                "ticker_sentiment_score": "-0.041546",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "HSY",
+                "relevance_score": "0.037475",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "AON",
+                "relevance_score": "0.037475",
+                "ticker_sentiment_score": "0.064134",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "CAH",
+                "relevance_score": "0.037475",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "UA",
+                "relevance_score": "0.018743",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "ABMD",
+                "relevance_score": "0.037475",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "PENN",
+                "relevance_score": "0.037475",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "CAT",
+                "relevance_score": "0.093507",
+                "ticker_sentiment_score": "0.224336",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "AAPL",
+                "relevance_score": "0.221988",
+                "ticker_sentiment_score": "-0.110006",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "MSFT",
+                "relevance_score": "0.074867",
+                "ticker_sentiment_score": "-0.125741",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "SHOP",
+                "relevance_score": "0.037475",
+                "ticker_sentiment_score": "0.164423",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "FOREX:USD",
+                "relevance_score": "0.018743",
+                "ticker_sentiment_score": "-0.040495",
+                "ticker_sentiment_label": "Neutral"
+            }
+        ]
+    },
+    {
+        "title": "Earnings Preview: Hyatt Hotels  ( H )  Q3 Earnings Expected to Decline",
+        "url": "https://www.zacks.com/stock/news/1998634/earnings-preview-hyatt-hotels-h-q3-earnings-expected-to-decline",
+        "time_published": "20221027T140226",
+        "authors": [
+            "Zacks Investment Research"
+        ],
+        "summary": "Hyatt Hotels (H) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+        "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default258.jpg",
+        "source": "Zacks Commentary",
+        "category_within_source": "n/a",
+        "source_domain": "www.zacks.com",
+        "topics": [
+            {
+                "topic": "Earnings",
+                "relevance_score": "1.0"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "1.0"
+            },
+            {
+                "topic": "Financial Markets",
+                "relevance_score": "0.316726"
+            }
+        ],
+        "overall_sentiment_score": 0.13156,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+            {
+                "ticker": "H",
+                "relevance_score": "0.29887",
+                "ticker_sentiment_score": "-0.017859",
+                "ticker_sentiment_label": "Neutral"
+            }
+        ]
+    },
+    {
+        "title": "Boyd Gaming  ( BYD )  Q3 Earnings & Revenues Beat Estimates",
+        "url": "https://www.zacks.com/stock/news/1997912/boyd-gaming-byd-q3-earnings-revenues-beat-estimates",
+        "time_published": "20221026T164300",
+        "authors": [
+            "Zacks Investment Research"
+        ],
+        "summary": "Boyd Gaming's (BYD) third-quarter 2022 top line reflects solid contributions from non-gaming revenues and F&B business.",
+        "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/02/787.jpg",
+        "source": "Zacks Commentary",
+        "category_within_source": "n/a",
+        "source_domain": "www.zacks.com",
+        "topics": [
+            {
+                "topic": "Manufacturing",
+                "relevance_score": "0.5"
+            },
+            {
+                "topic": "Earnings",
+                "relevance_score": "0.999691"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "0.5"
+            },
+            {
+                "topic": "Financial Markets",
+                "relevance_score": "0.684621"
+            }
+        ],
+        "overall_sentiment_score": 0.218982,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+            {
+                "ticker": "LYV",
+                "relevance_score": "0.161349",
+                "ticker_sentiment_score": "0.127243",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "DSSMY",
+                "relevance_score": "0.054114",
+                "ticker_sentiment_score": "0.187995",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "CROX",
+                "relevance_score": "0.265666",
+                "ticker_sentiment_score": "0.185159",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "H",
+                "relevance_score": "0.161349",
+                "ticker_sentiment_score": "0.127243",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "BYD",
+                "relevance_score": "0.316168",
+                "ticker_sentiment_score": "0.277661",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            }
+        ]
+    },
+    {
+        "title": "Hilton  ( HLT )  Q3 Earnings & Revenues Beat Estimates, Rise Y/Y",
+        "url": "https://www.zacks.com/stock/news/1997910/hilton-hlt-q3-earnings-revenues-beat-estimates-rise-yy",
+        "time_published": "20221026T163800",
+        "authors": [
+            "Zacks Investment Research"
+        ],
+        "summary": "Hilton's (HLT) third-quarter performance benefits from a rise in leisure demand and improvements in transient and group businesses.",
+        "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/f8/3230.jpg",
+        "source": "Zacks Commentary",
+        "category_within_source": "n/a",
+        "source_domain": "www.zacks.com",
+        "topics": [
+            {
+                "topic": "Manufacturing",
+                "relevance_score": "0.5"
+            },
+            {
+                "topic": "Earnings",
+                "relevance_score": "1.0"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "0.5"
+            },
+            {
+                "topic": "Financial Markets",
+                "relevance_score": "0.684621"
+            },
+            {
+                "topic": "Economy - Monetary",
+                "relevance_score": "0.158519"
+            }
+        ],
+        "overall_sentiment_score": 0.217651,
+        "overall_sentiment_label": "Somewhat-Bullish",
+        "ticker_sentiment": [
+            {
+                "ticker": "LYV",
+                "relevance_score": "0.135094",
+                "ticker_sentiment_score": "0.113519",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "CROX",
+                "relevance_score": "0.223248",
+                "ticker_sentiment_score": "0.159814",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "HLT",
+                "relevance_score": "0.429359",
+                "ticker_sentiment_score": "0.337417",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "H",
+                "relevance_score": "0.135094",
+                "ticker_sentiment_score": "0.113519",
+                "ticker_sentiment_label": "Neutral"
+            }
+        ]
+    },
+    {
+        "title": "Microsoft, Alphabet Earnings and Guidance Drag Tech Sector, But Other Parts of Market Appear to Be Holding on So Far - Coca-Cola  ( NYSE:KO ) , Procter & Gamble  ( NYSE:PG ) ",
+        "url": "https://www.benzinga.com/markets/22/10/29420284/microsoft-alphabet-earnings-and-guidance-drag-tech-sector-but-other-parts-of-market-appear-to-be-hol",
+        "time_published": "20221026T155651",
+        "authors": [
+            "Shawn Cruz"
+        ],
+        "summary": "( Wednesday Market Open ) Bullish investors are in a conundrum. On the one hand, they want to see data signaling economic slowdown, hoping that will convince the Federal Reserve to eventually take its foot off the brake.",
+        "banner_image": "https://cdn.benzinga.com/files/images/story/2022/10/26/shutterstock_1643544484.jpg?width=1200&height=800&fit=crop",
+        "source": "Benzinga",
+        "category_within_source": "Markets",
+        "source_domain": "www.benzinga.com",
+        "topics": [
+            {
+                "topic": "Energy & Transportation",
+                "relevance_score": "0.142857"
+            },
+            {
+                "topic": "Life Sciences",
+                "relevance_score": "0.142857"
+            },
+            {
+                "topic": "Economy - Fiscal",
+                "relevance_score": "0.158519"
+            },
+            {
+                "topic": "Economy - Monetary",
+                "relevance_score": "0.890401"
+            },
+            {
+                "topic": "Retail & Wholesale",
+                "relevance_score": "0.142857"
+            },
+            {
+                "topic": "Real Estate & Construction",
+                "relevance_score": "0.142857"
+            },
+            {
+                "topic": "Earnings",
+                "relevance_score": "1.0"
+            },
+            {
+                "topic": "Finance",
+                "relevance_score": "0.142857"
+            },
+            {
+                "topic": "Technology",
+                "relevance_score": "0.142857"
+            },
+            {
+                "topic": "Financial Markets",
+                "relevance_score": "0.905476"
+            },
+            {
+                "topic": "Manufacturing",
+                "relevance_score": "0.142857"
+            }
+        ],
+        "overall_sentiment_score": -0.01704,
+        "overall_sentiment_label": "Neutral",
+        "ticker_sentiment": [
+            {
+                "ticker": "MAR",
+                "relevance_score": "0.039128",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "META",
+                "relevance_score": "0.039128",
+                "ticker_sentiment_score": "-0.108599",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "CVS",
+                "relevance_score": "0.039128",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "MDNDF",
+                "relevance_score": "0.01957",
+                "ticker_sentiment_score": "-0.024087",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "ZBH",
+                "relevance_score": "0.039128",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "CVX",
+                "relevance_score": "0.039128",
+                "ticker_sentiment_score": "0.064531",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "DUK",
+                "relevance_score": "0.039128",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "K",
+                "relevance_score": "0.039128",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "H",
+                "relevance_score": "0.039128",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "YUM",
+                "relevance_score": "0.039128",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "AMZN",
+                "relevance_score": "0.039128",
+                "ticker_sentiment_score": "-0.02931",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "DD",
+                "relevance_score": "0.039128",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "PG",
+                "relevance_score": "0.039128",
+                "ticker_sentiment_score": "0.042245",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "GOOG",
+                "relevance_score": "0.039128",
+                "ticker_sentiment_score": "-0.078887",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "XOM",
+                "relevance_score": "0.039128",
+                "ticker_sentiment_score": "0.064531",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "AMD",
+                "relevance_score": "0.039128",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "ABBV",
+                "relevance_score": "0.039128",
+                "ticker_sentiment_score": "0.064531",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "UBER",
+                "relevance_score": "0.039128",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "PFE",
+                "relevance_score": "0.039128",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "MSFT",
+                "relevance_score": "0.117009",
+                "ticker_sentiment_score": "-0.067046",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "MA",
+                "relevance_score": "0.01957",
+                "ticker_sentiment_score": "-0.024087",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "SYK",
+                "relevance_score": "0.039128",
+                "ticker_sentiment_score": "0.259484",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "LLY",
+                "relevance_score": "0.039128",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "BA",
+                "relevance_score": "0.058663",
+                "ticker_sentiment_score": "-0.01906",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "CNA",
+                "relevance_score": "0.039128",
+                "ticker_sentiment_score": "0.259484",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "MO",
+                "relevance_score": "0.039128",
+                "ticker_sentiment_score": "-0.026412",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "EXC",
+                "relevance_score": "0.039128",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "GM",
+                "relevance_score": "0.039128",
+                "ticker_sentiment_score": "0.152194",
+                "ticker_sentiment_label": "Somewhat-Bullish"
+            },
+            {
+                "ticker": "ILMN",
+                "relevance_score": "0.039128",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "HSY",
+                "relevance_score": "0.039128",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "AON",
+                "relevance_score": "0.039128",
+                "ticker_sentiment_score": "0.064531",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "CAH",
+                "relevance_score": "0.039128",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "UA",
+                "relevance_score": "0.01957",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "ABMD",
+                "relevance_score": "0.039128",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "PENN",
+                "relevance_score": "0.039128",
+                "ticker_sentiment_score": "0.0",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "CAT",
+                "relevance_score": "0.039128",
+                "ticker_sentiment_score": "-0.026412",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "AAPL",
+                "relevance_score": "0.097615",
+                "ticker_sentiment_score": "-0.031085",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "KHC",
+                "relevance_score": "0.097615",
+                "ticker_sentiment_score": "0.009677",
+                "ticker_sentiment_label": "Neutral"
+            },
+            {
+                "ticker": "KO",
+                "relevance_score": "0.078163",
+                "ticker_sentiment_score": "0.106823",
+                "ticker_sentiment_label": "Neutral"
+            }
+        ]
+    }
+]}
+
