@@ -5,6 +5,7 @@ function Alert() {
     let { alert} =context;
 //alerts on on navbar
 
+//alerts on navbar zddAF
   return (
   alert &&<span className={`alert mx-2 alert-${alert.type}`} role="alert">
     {alert.msg}
