@@ -359,6 +359,22 @@ const Stock = () => {
     setreport(monthlyData);
     navigate("/Report");
   };
+  let mybutton = document.getElementById("myBtn");
+
+
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    mybutton.style.display = "block";
+  } else {
+    mybutton.style.display = "none";
+  }
+}
+function scroll() {
+  document.body.scrollTop = 0; // For Safari
+  document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+}
   return (
     <>
       <div className="container my-3">
@@ -371,6 +387,8 @@ const Stock = () => {
         </h2>
       <hr />
       </div>
+      <button  className="sttop btn mx-5" onClick={scroll} style={{float:"right"}} id='myBtn'>&#8593;	</button>
+
 
       <div className="container">
         <h2 className="mx-2">Global Quote Data</h2>

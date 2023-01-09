@@ -9,10 +9,29 @@ import Premium from "./Premium"
 import Banner from "./Banner"
 
 const Home = () => {
+
 const [seed, setseed] = useState()
 useEffect(() => {
  setseed(Math.random())
 }, [])
+
+
+let mybutton = document.getElementById("myBtn");
+
+
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    mybutton.style.display = "block";
+  } else {
+    mybutton.style.display = "none";
+  }
+}
+function scroll() {
+  document.body.scrollTop = 0; // For Safari
+  document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+}
 
   let token=sessionStorage.getItem("token")
   return (
@@ -20,8 +39,11 @@ useEffect(() => {
   
    {!token?<Logger  />:null}
  
-   <Banner/>
+   <Banner id='top'/>
+  
+   <button  className="sttop btn mx-5" onClick={scroll} style={{float:"right"}} id='myBtn'>&#8593;	</button>
    <Premium/>
+   
     <Gainloose/>
     <News/>
     </div>

@@ -53,8 +53,7 @@ const Searchele = (props) => {
             {" "}
             <button className="btn" onClick={() => addtodb(symbol, name)}>
               {" "}
-              add to favourites
-            </button>{" "}
+              <i class="fa-regular fa-bookmark"></i>           </button>{" "}
           </span>
         </td>
      
