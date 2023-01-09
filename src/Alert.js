@@ -3,7 +3,8 @@ import NoteContext from "./components/NoteContext";
 function Alert() {
   const context = useContext(NoteContext);
     let { alert} =context;
-//alerts on navbar
+//alerts on on navbar
+
   return (
   alert &&<span className={`alert mx-2 alert-${alert.type}`} role="alert">
     {alert.msg}

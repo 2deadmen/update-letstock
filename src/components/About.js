@@ -2,7 +2,10 @@ import React from 'react'
 
 const About = () => {
   return (
-    <div>
+    <div className='container my-3'>
+          <img style={{float:'right'}} src="" width={200} height={200} alt="" />
+
+      <h1>About Us</h1>
      <h5 className='my-2'>Data source --- www.alphavantage.co</h5>
      
      <br />
