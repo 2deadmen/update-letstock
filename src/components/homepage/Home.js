@@ -7,6 +7,7 @@ import News from "./News"
 import './Home.css'
 import Premium from "./Premium"
 import Banner from "./Banner"
+import Footer from "../footer/Footer"
 
 const Home = () => {
 
@@ -46,6 +47,7 @@ function scroll() {
    
     <Gainloose/>
     <News/>
+    <Footer/> 
     </div>
   )
 }

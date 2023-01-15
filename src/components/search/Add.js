@@ -1,9 +1,19 @@
 
 import NoteContext from "../NoteContext";
-import React,{useState,useContext} from 'react'
+import React,{useState,useContext,useEffect} from 'react'
 import Searchele from './Searchele';
-
+import {  useNavigate } from "react-router-dom";
+import './Add.css'
+import Footer from "../footer/Footer";
 const Add = () => {
+  let navigate = useNavigate();
+useEffect(() => {
+  if(!sessionStorage.getItem('token')){
+    navigate('/Login')  
+ }  
+}, [])
+
+
 
   let Data=[]
   const [Results, setResults] = useState(Data)
@@ -49,7 +59,7 @@ const onChange = (e) => {
     }
 
     return (
-    <div className='container m-4'>
+    <div className=' container m-4'>
       <form   className="  form-inline m-3 " >
       <input className="form-control mr-sm-2 " name="searchbar" id='searchbar' onFocus={styling} type="search" onChange={onChange} placeholder="Search" aria-label="Search"/>
       <button className="btn  mx-2 my-2 my-sm-0 searchbar"  onClick={search} type="submit">Search</button>
@@ -63,7 +73,9 @@ const onChange = (e) => {
                         })} 
     
     {/* <button className="btn-primary" onClick={handle}>add new stock</button> */}</table>
+    
     </div>
+   
   )
 }
 

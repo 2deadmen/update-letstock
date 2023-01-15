@@ -1,6 +1,7 @@
 import React, { useContext } from "react";
 import NoteContext from "../NoteContext";
 import { Link } from "react-router-dom";
+import './Add.css'
 const Searchele = (props) => {
   let { symbol, name } = props;
 

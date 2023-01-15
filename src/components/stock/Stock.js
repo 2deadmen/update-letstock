@@ -15,6 +15,7 @@ import FusionTheme from "fusioncharts/themes/fusioncharts.theme.fusion";
 import Sentiment from "./Sentiment";
 import Premium from "../homepage/Premium";
 import "./Stock.css";
+import Footer from "../footer/Footer";
 
 // // Step 6 - Adding the chart and theme as dependency to the core fusioncharts
 ReactFC.fcRoot(FusionCharts, candlestick, FusionTheme);
@@ -451,6 +452,7 @@ function scroll() {
         <button  className="btn mx-2" onClick={reportweekly}>Weekly series report</button>
         <button className="btn" onClick={reportmonthly}>Monthly series report</button>
       </div>
+      <Footer/>
     </>
   );
 };
