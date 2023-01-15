@@ -16,15 +16,17 @@ const Footer = () => {
             <div class="footer-col">
                 <h4>Quick Links</h4>
                 <ul>
-                    <li><Link to="#">About us</Link></li>
-                    <li><Link to="#">Search</Link></li>
-                    <li><Link to="#">Home</Link></li>
+                    <li><Link to="/about">About us</Link></li>
+                    <li><Link to="/search">Search</Link></li>
+                    <li><Link to="/">Home</Link></li>
                 </ul>
             </div>
             <div class="footer-col">
                 <h4>follow us</h4>
                 <div class="social-links">
-                    <Link to="#"><i class="fab fa-github"></i></Link>
+                    <a href="https://github.com/2deadmen"><i class="fab fa-github"></i></a>
+                    <a href="https://github.com/AnishKGouda"><i class="fab fa-github"></i></a>
+
                 </div>
             </div>
             <div class="footer-col">
