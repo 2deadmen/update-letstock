@@ -34,7 +34,7 @@ const Resetpass = () => {
 
     
     return (
-    <> <div  className='container'>
+    <> <div  className='container w-50'>
     <form  onSubmit={handlesubmit}>
     <div className="form-group">
       <label htmlFor="exampleInputEmail1">Password</label>

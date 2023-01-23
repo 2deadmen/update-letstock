@@ -10,7 +10,7 @@ import {
 const Footer = () => {
     
   return (
-    <div> <footer  class="footer ">
+    <div> <footer style={{'margin-top':'30px'}}  class="footer ">
     <div class="container">
         <div class="row">
             <div class="footer-col">
@@ -36,7 +36,7 @@ const Footer = () => {
          </div>
         </div>
     </div>
-  <div class="footer-bottom">
+  <div style={{'padding-top':'10px'}} class="footer-bottom">
      <p>Copyright Reserved &copy; 2023 </p>
   </div>
   
