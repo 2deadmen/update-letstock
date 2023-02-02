@@ -32,7 +32,7 @@ const Reports = () => {
     //console.log(report_body[key]['1. open'])
    // console.log(arr)
   });
-  console.log(datearr)
+  //console.log(datearr)
     return (
     <div className='container'>Reports
 
@@ -49,7 +49,8 @@ const Reports = () => {
              close : {element['4. close']} <br />
              high : {element['2. high']} <br />
              low : {element['3. low']} 
-             <br /> <hr />
+             <br />
+              <hr />
 </div>)
       })
     }
